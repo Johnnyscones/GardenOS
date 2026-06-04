@@ -1,0 +1,1958 @@
+{
+  "ME": {
+    "name": "Maine",
+    "abbr": "ME",
+    "zones": "3\u20136",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: White Pine Cone and Tassel",
+        "latin": "Pinus strobus",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Maine's state flower is actually the cone and tassel of the Eastern White Pine \u2014 unique among state flowers.",
+        "zones": "3\u20136",
+        "is_state_flower": true
+      },
+      {
+        "name": "Lupine",
+        "latin": "Lupinus perennis",
+        "bloom": "May\u2013Jun",
+        "color": "#7B68EE",
+        "habitat": "Fields, roadsides, sandy soils",
+        "wildlife": "Host plant for Karner Blue butterfly. Nitrogen fixer.",
+        "description": "Tall spikes of purple-blue flowers are iconic along Maine roadsides and fields in late spring. Wild lupine is the only host plant for the endangered Karner Blue butterfly. Thrives in sandy, poor, acidic soils where little else grows.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Bunchberry",
+        "latin": "Cornus canadensis",
+        "bloom": "May\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Boreal forest understory, acidic soils",
+        "wildlife": "Berries eaten by 37+ species of birds. Ground-covering woodland plant.",
+        "description": "Miniature dogwood ground cover with white flower bracts and bright red berry clusters. Essential woodland floor plant in Maine's boreal forests. Spreads slowly to form carpets in acidic, shaded conditions.",
+        "zones": "2\u20137"
+      },
+      {
+        "name": "Wild Blue Flag Iris",
+        "latin": "Iris versicolor",
+        "bloom": "May\u2013Jul",
+        "color": "#6A5ACD",
+        "habitat": "Wetlands, pond edges, bogs",
+        "wildlife": "Attracts native bumblebees. Important for wetland pollinators.",
+        "description": "Striking blue-violet iris native to Maine's wetlands, pond margins, and bogs. Tolerates standing water. The official wildflower of Quebec and a beloved native throughout eastern boreal regions.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Fireweed",
+        "latin": "Chamerion angustifolium",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FF69B4",
+        "habitat": "Disturbed areas, post-burn clearings, roadsides",
+        "wildlife": "Major nectar source for bees. Important for honey production in northern Maine.",
+        "description": "Tall magenta flower spires that colonize disturbed ground, clearcuts, and post-fire areas. One of the first plants to return after forest disturbance. Blooms progress upward on the spike \u2014 when bloom reaches the top, summer is nearly over.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Pitcher Plant",
+        "latin": "Sarracenia purpurea",
+        "bloom": "May\u2013Jun",
+        "color": "#8B0000",
+        "habitat": "Bogs and fens \u2014 sphagnum moss",
+        "wildlife": "Carnivorous \u2014 traps insects. Unique bog ecosystem plant.",
+        "description": "Maine's carnivorous bog plant \u2014 hollow pitcher-shaped leaves trap rainwater and drown insects to extract nutrients from nutrient-poor bog water. The reddish nodding flowers are pollinated by bumblebees. State flower of Newfoundland.",
+        "zones": "2\u20138"
+      },
+      {
+        "name": "Trillium",
+        "latin": "Trillium erectum",
+        "bloom": "Apr\u2013Jun",
+        "color": "#8B0000",
+        "habitat": "Rich deciduous forest",
+        "wildlife": "Seeds dispersed by ants (myrmecochory). Slow-growing forest wildflower.",
+        "description": "Deep red-maroon three-petaled wildflower of rich deciduous forest floors. Takes 7+ years to bloom from seed. Never pick \u2014 removal kills the plant. Entire plant arrangement is in threes (petals, sepals, leaves). Beloved spring ephemeral.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Wild Blueberry",
+        "latin": "Vaccinium angustifolium",
+        "bloom": "May\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Rocky barrens, acidic sandy soil",
+        "wildlife": "Over 40 bird species eat berries. Critical bear food. Supports native bees.",
+        "description": "Maine's most economically important native plant \u2014 wild blueberry barrens cover thousands of acres of Washington County. Spreads by rhizome to form dense low mats. Produces small intensely flavored berries far superior in antioxidants to cultivated varieties. Requires acidic rocky soil with low nutrients.",
+        "zones": "3\u20136"
+      },
+      {
+        "name": "Steeplebush",
+        "latin": "Spiraea tomentosa",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FF69B4",
+        "habitat": "Wet meadows, pond margins, stream banks",
+        "wildlife": "Attracts native bees and butterflies. Important wetland shrub.",
+        "description": "Deep pink flower spikes rising above woolly-leaved stems in Maine's wet meadows and pond margins. One of the most beautiful native shrubs for moist sites. Blooms in mid-summer when most other shrubs have finished. The dense woolly underside of leaves is distinctive.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Sheep Laurel",
+        "latin": "Kalmia angustifolia",
+        "bloom": "May\u2013Jun",
+        "color": "#FF69B4",
+        "habitat": "Bogs, rocky barrens, acidic meadows",
+        "wildlife": "Bee plant. Toxic to livestock.",
+        "description": "Low-growing native shrub with clusters of deep pink flowers in acidic meadows and bogs \u2014 related to mountain laurel but smaller and with more intense flower color. Toxic to sheep and cattle \u2014 hence the name. Found throughout Maine's rocky coastal barrens alongside blueberries and Labrador tea.",
+        "zones": "2\u20136"
+      },
+      {
+        "name": "Meadowsweet",
+        "latin": "Spiraea alba",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FFFFFF",
+        "habitat": "Wet meadows, stream banks, bog edges",
+        "wildlife": "Attracts native bees and small butterflies.",
+        "description": "Native shrub with plumes of tiny white flowers in wet meadows and along stream banks throughout Maine. One of the most common plants of Maine's old farmland going back to pasture \u2014 indicates formerly grazed ground. Provides structure and late-season bloom in wetland plant communities.",
+        "zones": "3\u20136"
+      }
+    ]
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "abbr": "NH",
+    "zones": "3\u20136",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Purple Lilac",
+        "latin": "Syringa vulgaris",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Introduced from Europe but deeply embedded in New Hampshire's spring landscape.",
+        "zones": "3\u20136",
+        "is_state_flower": true
+      },
+      {
+        "name": "Pink Lady's Slipper",
+        "latin": "Cypripedium acaule",
+        "bloom": "May\u2013Jun",
+        "color": "#FFB6C1",
+        "habitat": "Pine forests, acidic woodland soil",
+        "wildlife": "Pollinated by bumblebees \u2014 deceptive pollination (no nectar offered).",
+        "description": "New Hampshire's most celebrated wildflower \u2014 a native orchid that lives in the acidic soil beneath pines. Takes 10\u201317 years to bloom from seed. Has a specific mycorrhizal fungus relationship \u2014 never transplant. One of the most photogenic native wildflowers of the Northeast.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Mountain Laurel",
+        "latin": "Kalmia latifolia",
+        "bloom": "May\u2013Jul",
+        "color": "#FFB6C1",
+        "habitat": "Rocky mountain slopes, acidic woodland",
+        "wildlife": "Provides dense cover for birds. Limited pollinator value.",
+        "description": "Spectacular evergreen shrub with clusters of cup-shaped pink and white flowers. One of the most beautiful native flowering shrubs of the eastern mountains. State flower of Connecticut and Pennsylvania.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Cardinal Flower",
+        "latin": "Lobelia cardinalis",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FF0000",
+        "habitat": "Streambanks, wet meadows, woodland edges",
+        "wildlife": "Primary nectar source for Ruby-throated Hummingbird. Also attracts swallowtail butterflies.",
+        "description": "Brilliant scarlet flower spikes along streams and wet meadows. Designed specifically for hummingbird pollination \u2014 tubular flowers fit the hummingbird bill perfectly. One of the most hummingbird-attracting native plants in eastern North America.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "New England Aster",
+        "latin": "Symphyotrichum novae-angliae",
+        "bloom": "Aug\u2013Oct",
+        "color": "#9400D3",
+        "habitat": "Meadows, roadsides, open woodland",
+        "wildlife": "Critical late-season nectar source for Monarch butterflies migrating south.",
+        "description": "Deep purple daisy-like flowers that bloom in late summer and fall when most other flowers have finished. Essential fuel station for Monarch butterflies on their southward migration. Also supports native bees building winter reserves.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Bloodroot",
+        "latin": "Sanguinaria canadensis",
+        "bloom": "Mar\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Seeds have elaiosomes \u2014 ants carry them underground (myrmecochory).",
+        "description": "One of the earliest spring wildflowers \u2014 white blooms emerge before the leaves fully open, wrapping themselves in a single large leaf. Brilliant orange-red sap inside the root (gives its name) was used as dye by Native Americans. Ephemeral \u2014 disappears by summer.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Painted Trillium",
+        "latin": "Trillium undulatum",
+        "bloom": "May\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Cool acidic woodland, mountain slopes",
+        "wildlife": "Ant-dispersed seeds. Rare and striking wildflower.",
+        "description": "The most striking of New Hampshire's native trilliums \u2014 white petals with a brilliant crimson V-shaped marking at the base. Found in cool, moist, acidic forest on mountain slopes. Takes up to 10 years to bloom from seed. Never pick \u2014 removing the leaves kills the plant.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Turtlehead",
+        "latin": "Chelone glabra",
+        "bloom": "Aug\u2013Sep",
+        "color": "#FFFFFF",
+        "habitat": "Wet woodland, stream banks",
+        "wildlife": "Exclusive host plant for Baltimore Checkerspot butterfly caterpillars.",
+        "description": "White snapdragon-like flowers on upright stems in wet woodland and stream margins. The flower opening resembles a turtle's head \u2014 hence the name. The exclusive larval host plant for the striking Baltimore Checkerspot butterfly, making it essential for this species' survival in New Hampshire.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Labrador Tea",
+        "latin": "Rhododendron groenlandicum",
+        "bloom": "May\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Bogs, fens, wet boreal forest",
+        "wildlife": "Specialist bog plant. Few insects due to toxic compounds.",
+        "description": "Evergreen bog shrub with aromatic leaves and clusters of white flowers \u2014 a defining plant of New Hampshire's high-elevation bogs and peatlands. The leaves were historically brewed as tea by indigenous peoples and early settlers, though contain compounds toxic in large quantities. Rust-colored woolly undersides of leaves are distinctive.",
+        "zones": "2\u20136"
+      },
+      {
+        "name": "Hobblebush",
+        "latin": "Viburnum lantanoides",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Cool moist woodland understory",
+        "wildlife": "Berries eaten by bears, grouse, and many birds.",
+        "description": "A stunning native shrub of cool mountain forest understories \u2014 flat-topped white flower clusters surrounded by large sterile outer flowers give it a lacecap appearance in spring. Berries progress from red to black and feed wildlife. The name comes from branches that root where they touch the ground, 'hobbling' hikers.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Wild Sarsaparilla",
+        "latin": "Aralia nudicaulis",
+        "bloom": "May\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Moist woodland understory",
+        "wildlife": "Berries eaten by many bird species. Deer browse the leaves.",
+        "description": "Low-growing woodland plant with a single compound leaf and spherical umbels of tiny white flowers close to the ground. The aromatic roots were used as a flavoring \u2014 a key ingredient in traditional root beer. Common in New Hampshire's mixed forest understory, often forming large colonies by underground rhizomes.",
+        "zones": "3\u20137"
+      }
+    ]
+  },
+  "VT": {
+    "name": "Vermont",
+    "abbr": "VT",
+    "zones": "3\u20136",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Red Clover",
+        "latin": "Trifolium pratense",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Introduced but naturalized \u2014 Vermont's dairy farming heritage reflected in this clover.",
+        "zones": "3\u20136",
+        "is_state_flower": true
+      },
+      {
+        "name": "Red Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Rocky woodland, cliff edges, forest margins",
+        "wildlife": "Primary early-season hummingbird flower. Also visited by long-tongued bees.",
+        "description": "Nodding red and yellow spurred flowers on delicate stems. The spurs hold nectar accessible only to hummingbirds and long-tongued bees. Self-seeds freely, naturalizing in rocky woodland edges and cliff crevices. One of the most elegant native wildflowers of Vermont's forests.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Wild Bergamot",
+        "latin": "Monarda fistulosa",
+        "bloom": "Jul\u2013Aug",
+        "color": "#DDA0DD",
+        "habitat": "Dry meadows, open woodland, roadsides",
+        "wildlife": "Attracts over 20 bee species including native bumblebees. Also attracts butterflies and hummingbirds.",
+        "description": "Lavender-pink bee balm with square stems (mint family). A powerhouse pollinator plant \u2014 one of the most bee-attractive native plants in the Northeast. Aromatic leaves with oregano-like scent. Very drought-tolerant once established.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Interrupted Fern",
+        "latin": "Osmunda claytoniana",
+        "bloom": "Spores May\u2013Jun",
+        "color": "#228B22",
+        "habitat": "Moist woodland, stream banks",
+        "wildlife": "Provides important nest material for birds.",
+        "description": "A stately woodland fern whose fronds are 'interrupted' mid-stem by the brown spore-bearing pinnae \u2014 giving the illusion of missing leaflets. One of Vermont's most characteristic native plants, creating beautiful colonies along woodland streams.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Swamp Milkweed",
+        "latin": "Asclepias incarnata",
+        "bloom": "Jul\u2013Aug",
+        "color": "#FF69B4",
+        "habitat": "Wetland edges, stream banks, ditches",
+        "wildlife": "Essential Monarch butterfly host plant and nectar source. Supports 450+ insects.",
+        "description": "Pink milkweed adapted to wet conditions. An essential Monarch butterfly host plant \u2014 Monarchs will only lay eggs on milkweed. Also supports 450+ other insect species. More refined than common milkweed, suitable for garden borders near water features.",
+        "zones": "3\u20136"
+      },
+      {
+        "name": "Joe-Pye Weed",
+        "latin": "Eutrochium purpureum",
+        "bloom": "Jul\u2013Sep",
+        "color": "#DDA0DD",
+        "habitat": "Moist meadows, roadsides, open woodland",
+        "wildlife": "Attracts 18+ butterfly species. Major late-summer pollinator plant.",
+        "description": "Tall mauve-purple flower clusters reaching 5\u20137 feet. A powerhouse late-summer pollinator plant that supports 18+ butterfly species and dozens of native bees. Named for a Native American healer who reportedly used it to treat typhoid fever.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Yellow Clintonia",
+        "latin": "Clintonia borealis",
+        "bloom": "May\u2013Jun",
+        "color": "#FFFF00",
+        "habitat": "Cool moist boreal forest",
+        "wildlife": "Berries eaten by thrushes. Boreal forest indicator species.",
+        "description": "Pale yellow lily flowers on a tall stem above broad glossy leaves in cool moist forest. The metallic blue-purple berries that follow are striking but poisonous. One of Vermont's most characteristic boreal forest wildflowers \u2014 its presence indicates a healthy, undisturbed forest ecosystem.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Round-leaved Sundew",
+        "latin": "Drosera rotundifolia",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FFFFFF",
+        "habitat": "Sphagnum bogs, wet acidic peat",
+        "wildlife": "Carnivorous \u2014 traps insects with sticky glandular hairs.",
+        "description": "Vermont's carnivorous bog plant \u2014 spoon-shaped leaves covered with glistening red sticky gland-tipped hairs that trap and digest insects. Supplements the nutrient-poor bog environment. Requires undisturbed acidic sphagnum bog habitat increasingly threatened by drainage and development.",
+        "zones": "2\u20137"
+      },
+      {
+        "name": "Arrowhead",
+        "latin": "Sagittaria latifolia",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FFFFFF",
+        "habitat": "Shallow ponds, marshes, slow rivers",
+        "wildlife": "Tubers eaten by ducks and geese. Important aquatic plant.",
+        "description": "Pure white three-petaled flowers on distinctive arrow-shaped leaves emerging from Vermont's ponds and slow rivers. The starchy underground tubers were a critical food source for Native Americans and were called 'wapato.' Attracts waterfowl that feed on the tubers. An ecologically important native aquatic plant.",
+        "zones": "4\u201310"
+      },
+      {
+        "name": "Wild Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Rocky woodland, cliff faces",
+        "wildlife": "First hummingbird flower of spring. 26 bee species.",
+        "description": "Red and yellow spurred flowers nodding from rocky slopes throughout Vermont. One of the most elegant native wildflowers \u2014 designed specifically for Ruby-throated Hummingbird pollination, with spurs accessible only to long-tongued pollinators. Self-seeds freely in appropriate rocky, thin-soiled conditions. Essential early-season hummingbird fuel.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Hepatica",
+        "latin": "Hepatica americana",
+        "bloom": "Mar\u2013Apr",
+        "color": "#6A5ACD",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Critical early bee plant \u2014 first nectar of spring.",
+        "description": "One of the very first wildflowers of spring \u2014 blue, pink, or white flowers emerging from the leaf litter before the snow has fully retreated, often flowering through snow. The leathery three-lobed leaves that give it its name (liver-leaf) overwinter green. A beloved Vermont spring wildflower that signals the end of winter.",
+        "zones": "3\u20138"
+      }
+    ]
+  },
+  "MA": {
+    "name": "Massachusetts",
+    "abbr": "MA",
+    "zones": "5\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Mayflower (Trailing Arbutus)",
+        "latin": "Epigaea repens",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Massachusetts's state flower \u2014 one of the first flowers of spring, named for the Pilgrims' ship.",
+        "zones": "5\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Mayflower (Trailing Arbutus)",
+        "latin": "Epigaea repens",
+        "bloom": "Mar\u2013May",
+        "color": "#FFB6C1",
+        "habitat": "Sandy pine woodland, acidic soil",
+        "wildlife": "Pollinated by queen bumblebees emerging from hibernation.",
+        "description": "Massachusetts' state flower \u2014 the first flower to bloom each spring in sandy pine forests. Intensely fragrant pink and white flowers hug the ground beneath pine needles. Nearly impossible to transplant \u2014 leave it completely alone. Its appearance heralded spring for the Pilgrims who arrived on the Mayflower.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Blue Wild Indigo",
+        "latin": "Baptisia australis",
+        "bloom": "May\u2013Jun",
+        "color": "#4169E1",
+        "habitat": "Open woodland, meadow edges, dry slopes",
+        "wildlife": "Host plant for Wild Indigo Duskywing and Clouded Sulphur butterflies.",
+        "description": "Deep blue-purple pea-like flowers on an imposing 3\u20134 foot plant. Extremely long-lived \u2014 individual plants live 50+ years once established. Nitrogen-fixing root system improves soil. Striking black seed pods persist through winter.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Bee Balm",
+        "latin": "Monarda didyma",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FF0000",
+        "habitat": "Moist rich woodland, stream edges",
+        "wildlife": "Essential hummingbird plant. Supports native bees, hawk moths.",
+        "description": "Brilliant red ragged flower heads that are irresistible to Ruby-throated Hummingbirds. Spreads by rhizome in moist rich soil. The leaves make the original Oswego Tea, drunk by colonists after the Boston Tea Party as a substitute for British tea.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Sundew",
+        "latin": "Drosera rotundifolia",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FFFFFF",
+        "habitat": "Bogs and fens \u2014 sphagnum moss",
+        "wildlife": "Carnivorous \u2014 traps insects with sticky glandular hairs.",
+        "description": "Tiny carnivorous bog plant with spoon-shaped leaves covered in glistening sticky red glandular hairs that trap and digest insects. Supplements nutrients lacking in the poor bog soil. Found in the same acidic sphagnum bogs as pitcher plants.",
+        "zones": "2\u20137"
+      },
+      {
+        "name": "Wild Geranium",
+        "latin": "Geranium maculatum",
+        "bloom": "Apr\u2013Jun",
+        "color": "#DDA0DD",
+        "habitat": "Rich deciduous woodland, meadow edges",
+        "wildlife": "Important early-season bee plant. Attracts 29 bee species.",
+        "description": "Lavender-pink five-petaled flowers in woodland and meadow edges. One of the most important early-season native bees plants in the Northeast, attracting 29 recorded bee species. Very adaptable \u2014 tolerates both sun and shade. Excellent native garden plant.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Rhodora",
+        "latin": "Rhododendron canadense",
+        "bloom": "Apr\u2013May",
+        "color": "#DDA0DD",
+        "habitat": "Bogs, peaty barrens, pond edges",
+        "wildlife": "Attracts native bumblebee queens emerging from hibernation.",
+        "description": "Brilliant purple-pink rhododendron flowers that appear before the leaves in early spring \u2014 one of the most beautiful native shrubs of Massachusetts's coastal plain bogs and peaty barrens. Inspired Ralph Waldo Emerson's famous poem 'Rhodora.' Found in the same acidic, moist, nutrient-poor habitats as blueberries and Labrador tea.",
+        "zones": "3\u20136"
+      },
+      {
+        "name": "Swamp Azalea",
+        "latin": "Rhododendron viscosum",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Swampy woodland, pond edges",
+        "wildlife": "Attracts native bees and moths. Fragrant native azalea.",
+        "description": "Intensely fragrant white azalea flowering in midsummer along swampy woodland edges and pond margins across Massachusetts. The 'viscosum' (sticky) name refers to the sticky glandular hairs on the flowers. The fragrance is strongest at dusk, attracting sphinx moths as nighttime pollinators.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Closed Gentian",
+        "latin": "Gentiana clausa",
+        "bloom": "Aug\u2013Oct",
+        "color": "#4169E1",
+        "habitat": "Moist meadows, stream banks, woodland edges",
+        "wildlife": "Pollinated exclusively by bumblebees strong enough to force open the petals.",
+        "description": "Deep blue-violet bottle-shaped flowers that never fully open \u2014 pollinated exclusively by bumblebees powerful enough to force their way inside. One of the most striking late-season wildflowers of Massachusetts meadows and stream banks. A true autumn flower blooming into October.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Steeplebush",
+        "latin": "Spiraea tomentosa",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FF69B4",
+        "habitat": "Wet meadows, pond margins, bog edges",
+        "wildlife": "Native bees and butterflies. Common wetland shrub.",
+        "description": "Rosy-pink cone-shaped flower spikes rising above woolly-white-backed leaves in wet meadows across Massachusetts. One of the most ornamental native shrubs for moist conditions. The woolly white undersides of the leaves make it identifiable even when not in flower. A defining plant of New England wetland meadows.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Fringed Orchid",
+        "latin": "Platanthera psycodes",
+        "bloom": "Jun\u2013Jul",
+        "color": "#DDA0DD",
+        "habitat": "Moist meadows, wet woodland edges",
+        "wildlife": "Pollinated by sphinx moths \u2014 night pollinator.",
+        "description": "A stunning native orchid of moist meadows and wet woodland edges across Massachusetts \u2014 tall spikes of intensely fragrant lavender-purple fringed flowers. Pollinated by sphinx moths (hummingbird moths) attracted by the nighttime fragrance. One of the largest and most spectacular native orchids of New England. Never pick or transplant.",
+        "zones": "3\u20138"
+      }
+    ]
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "abbr": "RI",
+    "zones": "6\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Violet",
+        "latin": "Viola sororia",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Rhode Island's state flower \u2014 the common blue violet, host to all Fritillary butterflies.",
+        "zones": "6\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Violet (Common Blue)",
+        "latin": "Viola sororia",
+        "bloom": "Mar\u2013Jun",
+        "color": "#6A5ACD",
+        "habitat": "Lawns, woodland edges, disturbed ground",
+        "wildlife": "Host plant for all Fritillary butterfly species. Essential butterfly plant.",
+        "description": "Rhode Island's state flower \u2014 the common blue violet found in lawns, woodland edges, and disturbed ground. Despite being treated as a weed, it is the sole host plant for all Fritillary butterfly caterpillars. Edible flowers used in salads and as garnish.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Seaside Goldenrod",
+        "latin": "Solidago sempervirens",
+        "bloom": "Aug\u2013Nov",
+        "color": "#FFD700",
+        "habitat": "Coastal dunes, salt marshes, beaches",
+        "wildlife": "Supports 115+ bee species. Critical late-season coastal pollinator plant.",
+        "description": "Salt-tolerant goldenrod found along Rhode Island's entire coastline \u2014 dunes, salt marshes, and beach margins. One of the most ecologically important coastal plants, supporting 115+ bee species as a critical late-season nectar source when most plants have finished.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Swamp Rose",
+        "latin": "Rosa palustris",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FF69B4",
+        "habitat": "Wetland margins, stream banks",
+        "wildlife": "Dense thorny thickets provide bird nesting habitat. Hips eaten by 50+ bird species.",
+        "description": "Native rose of wetland margins and stream banks \u2014 not a garden rose but a true wild native. Single pink flowers mature into red hips that feed over 50 bird species through winter. Dense thorny thickets provide critical nesting habitat.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Butterfly Weed",
+        "latin": "Asclepias tuberosa",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FF8C00",
+        "habitat": "Dry, sandy, well-drained slopes",
+        "wildlife": "Essential Monarch host plant. Most insect-attracting native plant in North America by some measures.",
+        "description": "Brilliant orange milkweed \u2014 the most insect-attractive native plant in North America by some research. Essential Monarch butterfly host plant. Unlike other milkweeds, prefers dry sandy soil. No milky sap. Extremely drought-tolerant once established \u2014 taproot goes 18+ inches deep.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Blue-Eyed Grass",
+        "latin": "Sisyrinchium angustifolium",
+        "bloom": "May\u2013Jul",
+        "color": "#4169E1",
+        "habitat": "Moist meadows, roadsides, grassy areas",
+        "wildlife": "Attracts native bees. Low-growing meadow plant.",
+        "description": "Despite its name, a member of the iris family \u2014 not a grass. Delicate blue-violet six-petaled flowers with yellow centers on grass-like stems. Found in moist meadows and grassy areas throughout Rhode Island. Charming and often overlooked.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Pasture Rose",
+        "latin": "Rosa carolina",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FF69B4",
+        "habitat": "Dry open woodland, roadsides, rocky slopes",
+        "wildlife": "Hips eaten by over 20 bird species. Nesting cover.",
+        "description": "Rhode Island's most widespread native rose \u2014 single pink five-petaled flowers on a low-growing shrub of dry, rocky, open habitats. The bright red rose hips that follow provide critical winter food for birds including ruffed grouse, catbirds, and robins. Far more ecologically valuable than introduced ornamental roses.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Steeplebush",
+        "latin": "Spiraea tomentosa",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FF69B4",
+        "habitat": "Wet meadows, stream banks",
+        "wildlife": "Attracts native bees and small butterflies.",
+        "description": "Cone-shaped deep pink flower spikes on woolly-stemmed shrubs in Rhode Island's wet meadows and along stream banks. The woolly white undersides of the leaves are distinctive. One of the most ornamental native shrubs for wet, sunny conditions. Blooms when most shrubs have finished.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Sundew",
+        "latin": "Drosera rotundifolia",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FFFFFF",
+        "habitat": "Sphagnum bogs \u2014 rare in Rhode Island",
+        "wildlife": "Carnivorous. Important indicator of bog ecosystem health.",
+        "description": "Rhode Island's rare carnivorous bog plant \u2014 found only in a few remaining sphagnum bogs in the state. The glistening sticky gland-tipped hairs trap and digest insects to supplement nutrients from the nutrient-poor bog water. An indicator of pristine, undisturbed bog habitat \u2014 its presence signals a healthy ecosystem.",
+        "zones": "2\u20137"
+      },
+      {
+        "name": "Wild Lupine",
+        "latin": "Lupinus perennis",
+        "bloom": "May\u2013Jun",
+        "color": "#7B68EE",
+        "habitat": "Sandy barrens, dry open areas",
+        "wildlife": "Sole host plant for Karner Blue butterfly. Nitrogen fixer.",
+        "description": "Tall purple-blue flower spikes in Rhode Island's sandy barrens and dry open areas. The sole larval host plant for the federally endangered Karner Blue butterfly \u2014 without wild lupine this butterfly cannot survive. Rhode Island's remaining sandy coastal plain habitats are critical for this species. Nitrogen-fixing roots improve poor sandy soil.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Swamp Candles (Yellow Loosestrife)",
+        "latin": "Lysimachia terrestris",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FFD700",
+        "habitat": "Wetland margins, pond shores, wet meadows",
+        "wildlife": "Specialist oil-collecting native bees. Wetland indicator.",
+        "description": "Brilliant yellow flower spikes in Rhode Island's freshwater wetlands and pond margins. Often overlooked because it shares the common name 'loosestrife' with the invasive purple loosestrife \u2014 but this is a native with important ecological value. Specialist native bees in the genus Macropis collect floral oils from its petals to line their nest cells.",
+        "zones": "3\u20138"
+      }
+    ]
+  },
+  "CT": {
+    "name": "Connecticut",
+    "abbr": "CT",
+    "zones": "5\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Mountain Laurel",
+        "latin": "Kalmia latifolia",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Connecticut's state flower \u2014 spectacular native shrub with intricate flowers.",
+        "zones": "5\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Mountain Laurel",
+        "latin": "Kalmia latifolia",
+        "bloom": "May\u2013Jun",
+        "color": "#FFB6C1",
+        "habitat": "Rocky acidic woodland, hillsides",
+        "wildlife": "Dense cover for nesting birds. Limited but specialist pollinator value.",
+        "description": "Connecticut's state flower and one of the most spectacular native flowering shrubs in eastern North America. Intricate cup-shaped pink and white flowers with a unique catapult mechanism that flings pollen onto visiting bees. Poisonous \u2014 all parts toxic to humans and animals.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Bloodroot",
+        "latin": "Sanguinaria canadensis",
+        "bloom": "Mar\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich mesic woodland",
+        "wildlife": "Ant-dispersed seeds. Spring ephemeral.",
+        "description": "One of the earliest spring wildflowers in Connecticut's deciduous forests. A single large leaf wraps the white flower until it opens. Brilliant orange-red sap was used as a dye and insect repellent by Native Americans. Disappears completely by midsummer \u2014 a true spring ephemeral.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Nodding Onion",
+        "latin": "Allium cernuum",
+        "bloom": "Jul\u2013Aug",
+        "color": "#DDA0DD",
+        "habitat": "Rocky outcrops, open woodland, dry slopes",
+        "wildlife": "Attracts native bees and beetles. Edible native.",
+        "description": "Graceful native allium with delicate pink to white flower clusters that nod downward at the tip. All parts edible \u2014 used like chives or green onions by Native Americans. Grows from rocky outcrops and dry slopes where few other plants thrive.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Spotted Touch-Me-Not (Jewelweed)",
+        "latin": "Impatiens capensis",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FF8C00",
+        "habitat": "Wet woodland, stream banks, shaded seeps",
+        "wildlife": "Essential hummingbird plant. Also attracts sphinx moths and native bees.",
+        "description": "Bright orange spotted flowers on succulent stems along shaded stream banks. Seeds in ripe pods explode when touched \u2014 giving the 'touch-me-not' name and dispersing seeds. The juice from crushed stems is a folk remedy for poison ivy rash \u2014 remarkably often found growing near it.",
+        "zones": "2\u201311"
+      },
+      {
+        "name": "Wild Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Rocky woodland, cliff faces, dry slopes",
+        "wildlife": "First hummingbird flower of spring in Connecticut.",
+        "description": "Red and yellow spurred flowers of rocky woodlands and cliff faces. The first hummingbird nectar flower to bloom each spring \u2014 critical fuel for Ruby-throated Hummingbirds arriving from Central America. Self-seeds freely in appropriate conditions.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Turk's Cap Lily",
+        "latin": "Lilium superbum",
+        "bloom": "Jul\u2013Aug",
+        "color": "#FF6347",
+        "habitat": "Moist meadows, woodland edges",
+        "wildlife": "Essential hummingbird plant. Swallowtail butterflies.",
+        "description": "Connecticut's most dramatic native lily \u2014 tall stems reaching 6\u20138 feet with swept-back orange-red spotted petals forming the 'turk's cap' shape. Once common in Connecticut's moist meadows, now much reduced by habitat loss and deer browsing. The largest native lily in North America and one of the most spectacular wildflowers of the Northeast.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Fringed Loosestrife",
+        "latin": "Lysimachia ciliata",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FFD700",
+        "habitat": "Moist woodland, stream banks",
+        "wildlife": "Specialist oil-collecting native bees (Macropis).",
+        "description": "Nodding yellow flowers on a graceful native loosestrife of Connecticut's moist woodland and stream edges. Unlike the invasive purple loosestrife, this native provides excellent ecological value \u2014 specialist native bees (Macropis species) collect floral oils from its petals to line their nest cells.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Blue Cohosh",
+        "latin": "Caulophyllum thalictroides",
+        "bloom": "Apr\u2013May",
+        "color": "#9400D3",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Berries attract birds. Important woodland herb.",
+        "description": "Small purple-blue flowers emerge with the distinctive blue-green foliage in Connecticut's rich deciduous woodland. The metallic-blue toxic berries that follow attract birds for seed dispersal. A significant medicinal plant of eastern woodland \u2014 used by Native Americans for childbirth and fever. Increasingly uncommon due to forest understory deer pressure.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Pink Lady's Slipper",
+        "latin": "Cypripedium acaule",
+        "bloom": "May\u2013Jun",
+        "color": "#FFB6C1",
+        "habitat": "Acidic pine/oak woodland",
+        "wildlife": "Bumblebee specialist. Deceptive pollination.",
+        "description": "Connecticut's most celebrated native orchid \u2014 a stunning pink slipper-shaped flower that grows in the acidic soil under pines and oaks. Has a specific mycorrhizal fungus relationship \u2014 never transplant or pick. Takes 10\u201317 years to bloom from seed. Pollinators enter the slipper and must push past the stamens to exit, ensuring pollination without offering nectar as a reward.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Cardinal Flower",
+        "latin": "Lobelia cardinalis",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FF0000",
+        "habitat": "Stream banks, wet meadows, woodland edges",
+        "wildlife": "Primary hummingbird plant. Essential for Ruby-throated Hummingbird.",
+        "description": "Brilliant scarlet flower spikes along Connecticut's streams and wet meadows \u2014 one of the most hummingbird-attractive native plants in eastern North America. The tubular flowers are the perfect size for a hummingbird bill and are inaccessible to most bees. A must-have for any Connecticut garden aiming to attract hummingbirds.",
+        "zones": "3\u20139"
+      }
+    ]
+  },
+  "NY": {
+    "name": "New York",
+    "abbr": "NY",
+    "zones": "3\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Rose",
+        "latin": "Rosa spp.",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "New York's state flower \u2014 the rose, reflecting the state's cultural diversity.",
+        "zones": "3\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Rose Pogonia",
+        "latin": "Pogonia ophioglossoides",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FFB6C1",
+        "habitat": "Bogs, fens, wet meadows",
+        "wildlife": "Pollinated by native bumblebees \u2014 deceptive (no nectar).",
+        "description": "A native orchid of bogs and wet meadows \u2014 one of New York's most beautiful native orchids. Single rose-pink flower with a fringed lip. Found in acidic sphagnum bogs and wet meadows, often growing alongside pitcher plants. Never pick or attempt to transplant \u2014 fully protected.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Wild Bergamot",
+        "latin": "Monarda fistulosa",
+        "bloom": "Jul\u2013Aug",
+        "color": "#DDA0DD",
+        "habitat": "Dry meadows, roadsides, prairie edges",
+        "wildlife": "Attracts over 20 native bee species. Essential for native bee diversity.",
+        "description": "Lavender-pink bee balm that thrives in dry, sunny conditions across New York. More drought-tolerant than red bee balm (M. didyma). Aromatic leaves with oregano-like scent. One of the most powerful native plants for supporting bee diversity.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Dutchman's Breeches",
+        "latin": "Dicentra cucullaria",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Pollinated only by long-tongued bumblebee queens.",
+        "description": "Extraordinary white flowers that resemble tiny pantaloons hanging upside down on an arching stem. A spring ephemeral of rich woodland floors \u2014 blooms, sets seed, and disappears before the forest canopy leafs out. Pollinated exclusively by queen bumblebees with tongues long enough to reach the nectar in the spurs.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Goldenrod",
+        "latin": "Solidago canadensis",
+        "bloom": "Aug\u2013Oct",
+        "color": "#FFD700",
+        "habitat": "Meadows, roadsides, open disturbed areas",
+        "wildlife": "Supports 115+ bee species, 100+ moth/butterfly species. Most insect-supportive native.",
+        "description": "Often blamed for hay fever (it's the wind-pollinated ragweed that causes allergies \u2014 goldenrod pollen is too heavy for wind). Actually one of the most ecologically important native plants in the Northeast \u2014 supports 115+ bee species, 100+ moth and butterfly species, and feeds countless birds through the seeds.",
+        "zones": "2\u20139"
+      },
+      {
+        "name": "Trout Lily",
+        "latin": "Erythronium americanum",
+        "bloom": "Apr\u2013May",
+        "color": "#FFD700",
+        "habitat": "Rich moist woodland, floodplain forest",
+        "wildlife": "Ant-dispersed seeds. Spring ephemeral \u2014 disappears by June.",
+        "description": "Yellow nodding lily with beautifully mottled brown-and-green leaves resembling brook trout. Spreads slowly through underground stolons to form large colonies that can be hundreds of years old. A true spring ephemeral \u2014 leaves and flowers both disappear by June. Takes 7 years to first bloom from seed.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Wild Lupine",
+        "latin": "Lupinus perennis",
+        "bloom": "May\u2013Jun",
+        "color": "#7B68EE",
+        "habitat": "Sandy barrens, dry open woodland",
+        "wildlife": "Sole host plant for the endangered Karner Blue butterfly. Nitrogen fixer.",
+        "description": "Tall spikes of blue-purple pea flowers in New York's sandy pine barrens and dry open areas. The sole larval host plant for the federally endangered Karner Blue butterfly \u2014 without wild lupine, this butterfly cannot survive. New York's pine barrens hold critical populations. Nitrogen-fixing roots improve poor sandy soil.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Jack-in-the-Pulpit",
+        "latin": "Arisaema triphyllum",
+        "bloom": "Apr\u2013May",
+        "color": "#228B22",
+        "habitat": "Rich moist woodland",
+        "wildlife": "Berries eaten by wood thrush. Unusual flower structure.",
+        "description": "One of New York's most architecturally interesting wildflowers \u2014 a spathe (the 'pulpit') curving over the spadix ('Jack'). Separate male and female plants that can switch sex depending on energy reserves \u2014 a remarkable adaptation. Brilliant red berries replace the flowers in fall. Calcium oxalate crystals in all parts cause intense burning if eaten raw.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Bloodroot",
+        "latin": "Sanguinaria canadensis",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFFFFF",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Ant-dispersed seeds. Spring ephemeral.",
+        "description": "One of New York's earliest spring wildflowers \u2014 pure white flowers with golden stamens emerging from the forest floor before the trees leaf out. A single large leaf wraps the bud until it opens. Brilliant orange-red sap in the root was used as face paint and fabric dye by the Haudenosaunee (Iroquois) people. Disappears entirely by early summer.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Bottle Gentian",
+        "latin": "Gentiana clausa",
+        "bloom": "Aug\u2013Oct",
+        "color": "#4169E1",
+        "habitat": "Moist meadows, woodland edges, stream banks",
+        "wildlife": "Bumblebee specialist \u2014 only bees strong enough to open the petals can pollinate.",
+        "description": "Deep blue-violet closed flowers that never fully open \u2014 pollinated exclusively by bumblebees strong enough to force their way inside and out. One of the most striking late-season wildflowers of New York's moist meadows. A true autumn flower that continues blooming into October when most plants have finished. Indicates a healthy, undisturbed meadow ecosystem.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Pasque Flower",
+        "latin": "Pulsatilla patens",
+        "bloom": "Mar\u2013May",
+        "color": "#DDA0DD",
+        "habitat": "Rocky prairies, limestone outcrops \u2014 rare in NY",
+        "wildlife": "Early bee plant. Spring ephemeral.",
+        "description": "One of the earliest prairie wildflowers \u2014 purple to lavender silky-haired flowers emerging in early spring before the leaves fully unfold. Found in New York's rare calcareous grassland and limestone outcrop habitats in western counties. A plant of open, well-drained, slightly alkaline soils. Feathery seed heads persist through summer.",
+        "zones": "3\u20138"
+      }
+    ]
+  },
+  "NJ": {
+    "name": "New Jersey",
+    "abbr": "NJ",
+    "zones": "5\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Common Blue Violet",
+        "latin": "Viola sororia",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "New Jersey's state flower \u2014 the common blue violet found throughout the state.",
+        "zones": "5\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Swamp Pink",
+        "latin": "Helonias bullata",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FF69B4",
+        "habitat": "Atlantic coastal plain seeps and bogs",
+        "wildlife": "Rare and federally threatened. Pollinated by early spring bees.",
+        "description": "One of New Jersey's rarest native wildflowers \u2014 federally threatened. Striking pink flower spike rising from a rosette of evergreen leaves in freshwater seeps and bogs of the Atlantic coastal plain. New Jersey has the largest remaining populations. Never disturb.",
+        "zones": "5\u20138"
+      },
+      {
+        "name": "Turkeybeard",
+        "latin": "Xerophyllum asphodeloides",
+        "bloom": "May\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Pine Barrens \u2014 sandy acidic soil",
+        "wildlife": "Attracts native bees. New Jersey Pine Barrens specialist.",
+        "description": "A dramatic wildflower of New Jersey's Pine Barrens \u2014 long grass-like leaves topped with a dense spike of tiny white flowers. Found almost exclusively in the unique acidic sandy soils of the Pine Barrens ecosystem. Requires fire-adapted habitat to thrive.",
+        "zones": "5\u20138"
+      },
+      {
+        "name": "Butterfly Weed",
+        "latin": "Asclepias tuberosa",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FF8C00",
+        "habitat": "Dry sandy roadsides, meadows",
+        "wildlife": "Essential Monarch host plant. Extremely insect-rich.",
+        "description": "Brilliant orange milkweed \u2014 one of the most beautiful and ecologically important native wildflowers of New Jersey's dry sandy habitats. Essential host plant for Monarch butterflies. The deep taproot makes it drought-resistant but impossible to transplant successfully.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Lizard's Tail",
+        "latin": "Saururus cernuus",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FFFFFF",
+        "habitat": "Freshwater wetlands, stream margins",
+        "wildlife": "Provides aquatic habitat structure. Attracts bees.",
+        "description": "Fragrant white flower spikes that curve at the tip like a lizard's tail. Forms dense colonies in shallow freshwater wetlands and along stream margins. One of the few native plants that can grow in standing water. Heart-shaped leaves remain attractive all season.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Wild Pink",
+        "latin": "Silene caroliniana",
+        "bloom": "Apr\u2013May",
+        "color": "#FF69B4",
+        "habitat": "Rocky outcrops, dry sandy woodland",
+        "wildlife": "Attracts sphinx moths (night pollination) and native bees.",
+        "description": "Brilliant hot pink flowers on rocky outcrops and dry sandy woodland edges. One of New Jersey's most colorful spring wildflowers. Sticky stem and leaf glands (the 'catch-fly' trait) trap small insects \u2014 possibly to prevent them from stealing nectar without pollinating.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Bald Cypress",
+        "latin": "Taxodium distichum",
+        "bloom": "Not showy",
+        "color": "#228B22",
+        "habitat": "Freshwater swamps, stream banks \u2014 at northern range edge",
+        "wildlife": "Critical wildlife habitat. Cavity nesting birds. Fish habitat.",
+        "description": "The famous 'swamp tree' reaches its northern range limit in New Jersey's coastal plain swamps. Unusual deciduous conifer with feathery foliage and distinctive 'knees' (pneumatophores) that help the roots breathe in waterlogged soil. Ancient trees provide critical cavity-nesting habitat for wood ducks and other wildlife.",
+        "zones": "5\u201310"
+      },
+      {
+        "name": "Wild Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Rocky slopes, cedar glades, cliff faces",
+        "wildlife": "First hummingbird flower of spring. 26 bee species recorded.",
+        "description": "Red and yellow spurred flowers nodding from rocky slopes and cliff faces throughout New Jersey. The first flower Ruby-throated Hummingbirds visit upon returning from Central America each spring \u2014 critical fuel for northward migration. Grows naturally from rock crevices in thin, poor soil where little else survives. Self-seeds readily once established.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Grass Pink Orchid",
+        "latin": "Calopogon tuberosus",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FF69B4",
+        "habitat": "Acidic bogs, wet meadows \u2014 Pine Barrens specialist",
+        "wildlife": "Pollinated by bumblebees \u2014 deceptive (no nectar offered).",
+        "description": "A stunning native orchid of New Jersey's Pine Barrens bogs and acidic wet meadows \u2014 bright pink flowers with a distinctive yellow-tipped lip at the top (inverted from most orchids). Pollinates bumblebees deceptively \u2014 they land on the flower lip expecting pollen but instead pollinate the flower while trying to right themselves. One of New Jersey's most beautiful Pine Barrens natives.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Rose Pogonia",
+        "latin": "Pogonia ophioglossoides",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FFB6C1",
+        "habitat": "Sphagnum bogs, acidic wet meadows",
+        "wildlife": "Native bumblebee specialist. Bog indicator species.",
+        "description": "A delicate native orchid of New Jersey's sphagnum bogs and acidic wet meadows \u2014 a single rose-pink flower on a slender stem, delicately fragrant. Found in the same bog ecosystem as pitcher plants, sundews, and cranberries. Requires undisturbed acidic, nutrient-poor wetland habitat. Never pick \u2014 each flower represents years of slow growth.",
+        "zones": "3\u20138"
+      }
+    ]
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "abbr": "PA",
+    "zones": "4\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Mountain Laurel",
+        "latin": "Kalmia latifolia",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Pennsylvania's state flower \u2014 shared with Connecticut, this spectacular native shrub.",
+        "zones": "4\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Mountain Laurel",
+        "latin": "Kalmia latifolia",
+        "bloom": "May\u2013Jun",
+        "color": "#FFB6C1",
+        "habitat": "Rocky woodland, mountain slopes",
+        "wildlife": "State flower. Specialist bee habitat. Dense bird cover.",
+        "description": "Pennsylvania's state flower \u2014 spectacular native shrub with intricate pink and white flowers. The unique catapult stamen mechanism flings pollen onto visiting bumblebees. All parts poisonous \u2014 toxic honey was historically produced from its nectar. One of the defining plants of the Appalachian mountain landscape.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Wild Senna",
+        "latin": "Senna hebecarpa",
+        "bloom": "Jul\u2013Aug",
+        "color": "#FFD700",
+        "habitat": "Moist meadows, stream banks, open woodland",
+        "wildlife": "Host plant for Cloudless Sulphur and other sulphur butterflies.",
+        "description": "Tall yellow-flowered native legume of moist meadows and stream banks. A powerhouse pollinator plant that hosts multiple sulphur butterfly species. Nitrogen-fixing roots improve soil. Seeds were historically used as a coffee substitute.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Blue Cohosh",
+        "latin": "Caulophyllum thalictroides",
+        "bloom": "Apr\u2013May",
+        "color": "#9400D3",
+        "habitat": "Rich woodland \u2014 spring ephemeral",
+        "wildlife": "Seeds attract birds \u2014 blue berries despite being toxic.",
+        "description": "Small purplish-blue flowers on bluish-green foliage in rich woodland. The striking metallic-blue berries that follow are toxic but attract birds. Long used medicinally by Native Americans for childbirth \u2014 contains compounds that stimulate uterine contractions. A significant woodland herb of Pennsylvania's forests.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Wild Ginger",
+        "latin": "Asarum canadense",
+        "bloom": "Apr\u2013May",
+        "color": "#8B4513",
+        "habitat": "Rich moist woodland",
+        "wildlife": "Pollinated by ground-level insects. Ant-dispersed seeds.",
+        "description": "Low ground-covering plant of rich woodland with heart-shaped leaves hiding small brownish-red flowers at soil level \u2014 pollinated by beetles and flies that emerge from the leaf litter. The aromatic roots were used as a ginger substitute. Forms dense fragrant ground cover in shade.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Fringed Gentian",
+        "latin": "Gentianopsis crinita",
+        "bloom": "Aug\u2013Oct",
+        "color": "#4169E1",
+        "habitat": "Moist calcareous meadows, stream banks",
+        "wildlife": "Attracts native bees. Late-season rarity.",
+        "description": "One of the most beautiful and rarest native wildflowers in Pennsylvania \u2014 intensely blue fringed petals that close in clouds and at night, opening only in full sun. Annual or biennial \u2014 appears unpredictably. Sensitive to habitat disturbance. A highlight of any fall wildflower walk.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Dutchman's Breeches",
+        "latin": "Dicentra cucullaria",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich deciduous woodland, rocky slopes",
+        "wildlife": "Pollinated exclusively by queen bumblebees with long tongues.",
+        "description": "Extraordinary white pantaloon-shaped flowers dangling from arching stems in Pennsylvania's rich woodland. A spring ephemeral that blooms, sets seed, and vanishes before the forest canopy closes. Pollinated exclusively by queen bumblebees whose tongues are long enough to reach nectar hidden in the twin spurs. One of the most architecturally unique wildflowers of the Northeast.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Pink Azalea (Pinxterbloom)",
+        "latin": "Rhododendron periclymenoides",
+        "bloom": "Apr\u2013May",
+        "color": "#FFB6C1",
+        "habitat": "Dry to moist woodland, rocky slopes",
+        "wildlife": "Native bumblebees and sphinx moths.",
+        "description": "Pennsylvania's native azalea \u2014 fragrant pink flowers appearing before or with the emerging leaves on woodland slopes throughout the state. Far superior to introduced Asian azaleas for native wildlife. The fragrance attracts both bumblebees by day and sphinx moths at dusk. Forms beautiful colonies on rocky slopes in the Ridge and Valley region.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Pokeweed",
+        "latin": "Phytolacca americana",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FFFFFF",
+        "habitat": "Disturbed areas, woodland edges, roadsides",
+        "wildlife": "Berries eaten by 33 bird species. Important wildlife plant despite toxicity.",
+        "description": "A dramatic native plant reaching 10 feet \u2014 white flower racemes followed by deep purple-black berries on magenta stems that are among the most ornamental of any native plant. Despite the toxicity (all parts toxic to humans and livestock), pokeweed berries are eaten by 33 bird species and are critical wildlife food. The berries produce a brilliant purple-red dye historically used by Native Americans and colonists.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Spicebush",
+        "latin": "Lindera benzoin",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFD700",
+        "habitat": "Moist woodland understory, stream banks",
+        "wildlife": "Host plant for Spicebush Swallowtail. Critical early nectar.",
+        "description": "One of Pennsylvania's most ecologically important native shrubs \u2014 tiny yellow flowers appear in early spring before any other native shrub, providing critical first nectar for queen bumblebees emerging from hibernation. Host plant for the Spicebush Swallowtail butterfly, one of Pennsylvania's most beautiful. The berries turn brilliant red in fall and are devoured by migrating birds.",
+        "zones": "4\u20139"
+      }
+    ]
+  },
+  "DE": {
+    "name": "Delaware",
+    "abbr": "DE",
+    "zones": "6\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Peach Blossom",
+        "latin": "Prunus persica",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Delaware's state flower \u2014 honoring its agricultural heritage as a peach-growing state.",
+        "zones": "6\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Peach Blossom (Represented by Peach)",
+        "latin": "Prunus persica",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFB6C1",
+        "habitat": "Orchards, open areas \u2014 state flower but not native wildflower",
+        "wildlife": "Important early bee food. Not native but deeply embedded in Delaware culture.",
+        "description": "Delaware's state flower reflects its agricultural peach-growing heritage rather than a native wildflower. The pink peach blossoms signal spring across Delaware's orchards. Delaware was once the leading peach-producing state before a blight wiped out the industry in the 1890s.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Cardinal Flower",
+        "latin": "Lobelia cardinalis",
+        "bloom": "Jul\u2013Sep",
+        "color": "#FF0000",
+        "habitat": "Stream banks, wet meadows",
+        "wildlife": "Primary hummingbird plant of Delaware's coastal plain.",
+        "description": "Brilliant red flower spikes along Delaware's streams and wetland edges. The tubular flowers are designed specifically for Ruby-throated Hummingbird pollination \u2014 the bird's beak brushes the anthers depositing and receiving pollen while hovering. One of the most hummingbird-attractive plants in the eastern US.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Spatterdock",
+        "latin": "Nuphar advena",
+        "bloom": "May\u2013Sep",
+        "color": "#FFD700",
+        "habitat": "Ponds, slow rivers, tidal freshwater",
+        "wildlife": "Provides aquatic habitat. Waterfowl eat seeds and rhizomes.",
+        "description": "Yellow floating-leaved aquatic plant of Delaware's tidal freshwater rivers and ponds. Large round floating leaves provide shade that cools water for fish. The globular yellow flowers have an unusual brandy-like scent. Waterfowl rely on the seeds and rhizomes for food.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Swamp Azalea",
+        "latin": "Rhododendron viscosum",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Freshwater wetlands, pond edges",
+        "wildlife": "Attracts native bees and butterflies. Fragrant native azalea.",
+        "description": "Intensely fragrant white azalea of swampy woodland and wetland edges. The sticky (viscous) flowers release fragrance especially at dusk, attracting moths as well as bees. One of the few native azaleas that thrives in wet conditions.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Golden Club",
+        "latin": "Orontium aquaticum",
+        "bloom": "Mar\u2013May",
+        "color": "#FFD700",
+        "habitat": "Shallow water, pond edges, tidal wetlands",
+        "wildlife": "Aquatic habitat structure. Seeds eaten by waterfowl.",
+        "description": "Striking aquatic plant with white spathe and brilliant golden-yellow spadix rising from pond edges and tidal freshwater wetlands in Delaware's coastal plain. The waxy leaves bead water like mercury \u2014 hence the folk name 'never wet.' One of the most beautiful native aquatic plants. Seeds and roots were used as food by Native Americans after extensive preparation to remove toxic calcium oxalate crystals.",
+        "zones": "6\u201310"
+      },
+      {
+        "name": "Marsh Marigold",
+        "latin": "Caltha palustris",
+        "bloom": "Mar\u2013May",
+        "color": "#FFD700",
+        "habitat": "Wet woodland, swamp edges, stream banks",
+        "wildlife": "Important early-season bee plant. First nectar of spring.",
+        "description": "Brilliant yellow buttercup-like flowers carpeting wet woodland and stream margins in early spring \u2014 one of the first wildflowers to bloom in Delaware's wetlands. The sheer number of flowers provides a critical mass of early nectar for queen bumblebees emerging from hibernation. Also called cowslip. All parts toxic when raw \u2014 young leaves were boiled as a pot herb historically.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Rose Mallow",
+        "latin": "Hibiscus moscheutos",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FF69B4",
+        "habitat": "Tidal marshes, freshwater wetland margins",
+        "wildlife": "Specialist native bees evolved specifically for this genus.",
+        "description": "Enormous native hibiscus with plate-sized pink to white flowers rising from Delaware's tidal marshes and freshwater wetland edges. Among the largest flowers of any native plant in the eastern US. Specialist native bees in the genus Ptilothrix and Cemolobus evolved specifically to collect pollen from native Hibiscus \u2014 dependent on this plant for survival.",
+        "zones": "4\u201310"
+      },
+      {
+        "name": "Swamp Milkweed",
+        "latin": "Asclepias incarnata",
+        "bloom": "Jul\u2013Aug",
+        "color": "#FF69B4",
+        "habitat": "Freshwater wetlands, pond margins, stream banks",
+        "wildlife": "Essential Monarch butterfly host plant. Supports 450+ insects.",
+        "description": "Pink milkweed of Delaware's freshwater wetlands and pond margins \u2014 an essential Monarch butterfly host plant. Unlike common milkweed, this species thrives in wet conditions and has a more refined appearance suitable for garden borders near water features. Also supports 450+ other insect species. One of the most ecologically important native plants for Delaware's wetland habitats.",
+        "zones": "3\u20136"
+      },
+      {
+        "name": "Blue Wild Indigo",
+        "latin": "Baptisia australis",
+        "bloom": "May\u2013Jun",
+        "color": "#4169E1",
+        "habitat": "Open woodland, meadow edges, stream banks",
+        "wildlife": "Host plant for multiple butterfly species. Long-lived perennial.",
+        "description": "Deep blue-purple pea-like flowers on an imposing 3\u20134 foot plant found in Delaware's open woodland and meadow edges. Extremely long-lived \u2014 individual plants live 50+ years once established. Nitrogen-fixing root system improves soil. Black seed pods rattle in the wind through winter, providing structural interest in the landscape.",
+        "zones": "3\u20139"
+      }
+    ]
+  },
+  "MD": {
+    "name": "Maryland",
+    "abbr": "MD",
+    "zones": "5\u20138",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Black-Eyed Susan",
+        "latin": "Rudbeckia hirta",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Maryland's state flower \u2014 also the flower draped over Preakness Stakes winners.",
+        "zones": "5\u20138",
+        "is_state_flower": true
+      },
+      {
+        "name": "Black-Eyed Susan",
+        "latin": "Rudbeckia hirta",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FFD700",
+        "habitat": "Meadows, roadsides, open ground",
+        "wildlife": "Goldfinches eat seeds. Supports native bees and butterflies.",
+        "description": "Maryland's state flower \u2014 golden yellow daisies with dark brown centers blanketing roadsides and meadows across the state. Named for the Preakness Stakes winner where they are draped over winning horses. Extremely adaptable and long-blooming \u2014 one of the easiest native wildflowers to grow.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Wild Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Rocky woodland, cliff edges, shaded slopes",
+        "wildlife": "Critical early hummingbird flower. 26 bee species recorded visiting.",
+        "description": "Red and yellow spurred flowers of rocky woodland and cliff faces. The first hummingbird flower of spring in Maryland \u2014 critical fuel for northward-migrating Ruby-throated Hummingbirds. Self-seeds in appropriate rocky, partly-shaded conditions forming beautiful naturalized colonies.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Wild Blue Phlox",
+        "latin": "Phlox divaricata",
+        "bloom": "Apr\u2013May",
+        "color": "#6A5ACD",
+        "habitat": "Rich moist woodland",
+        "wildlife": "Attracts sphinx moths and swallowtail butterflies. Fragrant.",
+        "description": "Fragrant pale lavender-blue flowers carpet the floor of rich deciduous woodland in April and May. One of the most beautiful spring wildflowers of Maryland's forest understory. The fragrance attracts sphinx moths (hummingbird moths) and swallowtail butterflies.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Turk's Cap Lily",
+        "latin": "Lilium superbum",
+        "bloom": "Jul\u2013Aug",
+        "color": "#FF6347",
+        "habitat": "Moist meadows, woodland edges, stream banks",
+        "wildlife": "Essential hummingbird plant. Attracts swallowtail butterflies.",
+        "description": "One of the tallest and most dramatic native wildflowers \u2014 orange-red reflexed (swept back) petals with heavy spotting on stems reaching 6\u20138 feet. A stunning accent plant for moist meadow gardens. The largest native lily in North America.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Spicebush",
+        "latin": "Lindera benzoin",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFD700",
+        "habitat": "Moist woodland understory, stream banks",
+        "wildlife": "Host plant for Spicebush Swallowtail butterfly. Berries eaten by migrating birds.",
+        "description": "One of Maryland's most ecologically important native shrubs \u2014 tiny yellow flowers appear before leaves in early spring, providing critical early nectar. Host plant for the stunning Spicebush Swallowtail butterfly. Aromatic leaves, bark, and berries historically used as a spice.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Dutchman's Breeches",
+        "latin": "Dicentra cucullaria",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich woodland, stream banks",
+        "wildlife": "Queen bumblebee specialist. Spring ephemeral.",
+        "description": "White pantaloon-shaped flowers on arching stems in Maryland's rich woodland ravines. One of the most charming spring ephemerals \u2014 blooms, sets seed, and disappears entirely before summer. Found in particularly fine stands along the stream banks of western Maryland's mountain counties. Pollinated exclusively by long-tongued bumblebee queens.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Mayapple",
+        "latin": "Podophyllum peltatum",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Yellow fruit eaten by box turtles and opossums. Colony-forming.",
+        "description": "Large umbrella-like leaves emerge in dense colonies across Maryland's woodland floors, hiding a single waxy white flower underneath. Only the forked (two-leaved) plants produce flowers and edible yellow fruit. The colony may be genetically a single individual spreading by rhizomes \u2014 some Maryland colonies are estimated to be centuries old. All parts except ripe fruit are highly toxic.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Rocky woodland, cliff edges, cedar glades",
+        "wildlife": "Critical hummingbird flower. 26 bee species recorded.",
+        "description": "Red and yellow spurred flowers of Maryland's rocky woodland and cliff faces \u2014 the first hummingbird flower of spring. Critical fuel for Ruby-throated Hummingbirds arriving from Central America. Self-seeds freely in rocky, thin-soiled conditions, forming beautiful naturalized colonies. One of the most elegant native wildflowers of the Shenandoah Valley and Blue Ridge foothills.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Sensitive Fern",
+        "latin": "Onoclea sensibilis",
+        "bloom": "Spores Jun\u2013Aug",
+        "color": "#228B22",
+        "habitat": "Wetlands, moist woodland, stream margins",
+        "wildlife": "Important habitat structure for wetland invertebrates.",
+        "description": "A robust native fern of Maryland's wetlands and moist woodland \u2014 strongly dimorphic with separate sterile fronds (the 'leaves') and fertile fronds bearing bead-like spore cases that persist through winter. One of the most drought-sensitive native ferns \u2014 wilts dramatically in heat, leading to its common name. Forms extensive colonies in wet ground.",
+        "zones": "4\u20139"
+      }
+    ]
+  },
+  "VA": {
+    "name": "Virginia",
+    "abbr": "VA",
+    "zones": "5\u20138",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: American Dogwood",
+        "latin": "Cornus florida",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Virginia's state flower and tree \u2014 the iconic spring-blooming dogwood of eastern woodlands.",
+        "zones": "5\u20138",
+        "is_state_flower": true
+      },
+      {
+        "name": "American Dogwood",
+        "latin": "Cornus florida",
+        "bloom": "Mar\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Woodland understory, forest edges",
+        "wildlife": "Berries eaten by 36+ bird species. Host to 117 moth/butterfly species.",
+        "description": "Virginia's state flower and tree \u2014 the iconic white-bracted dogwood that illuminates woodland edges each spring before leaves emerge. The white 'petals' are actually bracts (modified leaves) surrounding the tiny true flowers. Among the most ecologically important understory trees in eastern forests \u2014 supports 117 moth and butterfly species and 36+ bird species.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Virginia Bluebells",
+        "latin": "Mertensia virginica",
+        "bloom": "Mar\u2013May",
+        "color": "#6A5ACD",
+        "habitat": "Rich floodplain woodland, stream banks",
+        "wildlife": "Important for native bumblebee queens emerging from hibernation. Spring ephemeral.",
+        "description": "Among the most beautiful spring wildflowers of Virginia's floodplain forests \u2014 masses of nodding sky-blue tubular flowers with pink buds, creating breathtaking drifts along stream banks. A true spring ephemeral \u2014 completely dormant by early summer. Named for Virginia, where early botanists first documented it.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Fire Pink",
+        "latin": "Silene virginica",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF0000",
+        "habitat": "Rocky woodland, dry slopes, cliff edges",
+        "wildlife": "Hummingbird specialist flower. Bright red signals hummingbird vision.",
+        "description": "Brilliant scarlet star-shaped flowers of rocky Virginia woodland and cliff faces. The deep red color and tubular shape are specifically adapted to attract Ruby-throated Hummingbirds \u2014 the red color is visible to hummingbirds but less attractive to most insects. One of Virginia's most striking native wildflowers.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Mayapple",
+        "latin": "Podophyllum peltatum",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Fruit eaten by box turtles and opossums. Seeds dispersed by wildlife.",
+        "description": "Large umbrella-like leaves hide a single waxy white flower underneath. Only plants with two leaves (forked stems) produce flowers and fruit. The yellow apple-like fruit is edible when fully ripe but all other parts are highly toxic. Forms extensive colonies in rich woodland \u2014 a single colony may be hundreds of years old.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Wild Azalea (Pinxterbloom)",
+        "latin": "Rhododendron periclymenoides",
+        "bloom": "Apr\u2013May",
+        "color": "#FFB6C1",
+        "habitat": "Dry to moist woodland, hillsides",
+        "wildlife": "Important native bee plant. Attracts sphinx moths.",
+        "description": "Virginia's native azalea \u2014 fragrant pink flowers appear before or with the emerging leaves on dry to moist woodland slopes. One of the earliest flowering native shrubs. Often mistaken for the introduced Japanese azaleas \u2014 the native version is more fragrant and ecologically valuable.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Trout Lily",
+        "latin": "Erythronium americanum",
+        "bloom": "Mar\u2013May",
+        "color": "#FFD700",
+        "habitat": "Rich moist woodland, floodplain forest",
+        "wildlife": "Spring ephemeral. Ant-dispersed seeds.",
+        "description": "Mottled brown-and-green leaves resembling brook trout emerge in spectacular colonies in Virginia's floodplain forests and rich woodland. Only a tiny fraction of plants bloom \u2014 most are non-flowering 'grass-stage' plants connected by underground stolons. A single colony covering an acre may be hundreds of years old. Among the earliest spring wildflowers.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Wild Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Rocky woodland, cliff edges, cedar glades",
+        "wildlife": "Critical hummingbird flower. 26 bee species recorded.",
+        "description": "Red and yellow spurred flowers of Virginia's rocky woodland and cliff faces. Nodding flowers designed specifically for Ruby-throated Hummingbird pollination \u2014 the spurs hold nectar accessible only to hummingbirds and long-tongued bees. Self-seeds freely in rocky, thin-soiled conditions. One of the most beautiful native wildflowers of the Shenandoah Valley.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Spicebush",
+        "latin": "Lindera benzoin",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFD700",
+        "habitat": "Moist woodland understory, stream banks",
+        "wildlife": "Host plant for Spicebush Swallowtail butterfly. Berries for migrating birds.",
+        "description": "One of Virginia's most ecologically important native shrubs \u2014 tiny yellow flowers appear in early spring before any other native shrub, providing critical early nectar. The Spicebush Swallowtail butterfly \u2014 one of Virginia's most beautiful natives \u2014 depends entirely on spicebush and sassafras as larval host plants. Aromatic spicy fragrance in all parts.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Wild Blue Phlox",
+        "latin": "Phlox divaricata",
+        "bloom": "Apr\u2013May",
+        "color": "#6A5ACD",
+        "habitat": "Rich moist woodland understory",
+        "wildlife": "Attracts sphinx moths and swallowtail butterflies. Fragrant.",
+        "description": "Clouds of fragrant pale lavender-blue flowers carpeting Virginia's rich deciduous woodland floors in spring \u2014 one of the most beautiful spring wildflowers for the shaded garden. Adaptable to both sun and shade. The fragrance is particularly strong at dusk, attracting sphinx moths as nighttime pollinators alongside swallowtail butterflies by day.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Wild Ginger",
+        "latin": "Asarum canadense",
+        "bloom": "Apr\u2013May",
+        "color": "#8B4513",
+        "habitat": "Rich moist woodland",
+        "wildlife": "Ground beetle pollinated. Ant-dispersed seeds.",
+        "description": "Heart-shaped aromatic leaves forming dense ground cover in Virginia's rich woodland, hiding small brownish-red flowers at soil level. Pollinated by beetles and flies emerging from the leaf litter. The roots have an authentic ginger aroma and were used as a spice substitute by both Native Americans and early settlers. Forms fragrant, beautiful colonies in shaded conditions.",
+        "zones": "3\u20138"
+      }
+    ]
+  },
+  "WV": {
+    "name": "West Virginia",
+    "abbr": "WV",
+    "zones": "4\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Rhododendron",
+        "latin": "Rhododendron maximum",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "West Virginia's state flower \u2014 spectacular mountain shrub defining Appalachian landscapes.",
+        "zones": "4\u20137",
+        "is_state_flower": true
+      },
+      {
+        "name": "Rhododendron",
+        "latin": "Rhododendron maximum",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FFB6C1",
+        "habitat": "Mountain slopes, stream banks, cool ravines",
+        "wildlife": "Dense thickets provide critical bird nesting habitat in mountain areas.",
+        "description": "West Virginia's state flower \u2014 the Rosebay Rhododendron that forms spectacular dense thickets on mountain slopes and cool ravines. One of the defining plants of Appalachian mountain landscapes. Massive clusters of pale pink flowers. All parts toxic \u2014 produces a toxic honey called 'mad honey' in areas with dense populations.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Trillium (Great White)",
+        "latin": "Trillium grandiflorum",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich deciduous woodland",
+        "wildlife": "Ant-dispersed seeds. Slow-growing forest wildflower.",
+        "description": "The largest and most spectacular native trillium \u2014 pure white three-petaled flowers aging to pink. West Virginia's mountain forests host substantial populations. Takes 7\u201310 years to bloom from seed. Never pick or transplant \u2014 picking removes the only leaf structure, eventually killing the plant. Overharvested in much of its range.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Flame Azalea",
+        "latin": "Rhododendron calendulaceum",
+        "bloom": "May\u2013Jun",
+        "color": "#FF6347",
+        "habitat": "Mountain ridges, dry slopes \u2014 Appalachian specialist",
+        "wildlife": "Attracts bumblebees, sphinx moths, hummingbirds.",
+        "description": "One of the most spectacular native plants in North America \u2014 brilliant orange to flame-red flowers on mountain ridges of the Appalachians. William Bartram called it 'the most gay and brilliant flowering shrub yet known' in 1791. West Virginia's mountain ridges host some of the finest displays anywhere.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Wild Bergamot",
+        "latin": "Monarda fistulosa",
+        "bloom": "Jul\u2013Aug",
+        "color": "#DDA0DD",
+        "habitat": "Dry mountain meadows, open areas",
+        "wildlife": "Over 20 native bee species. Hummingbirds.",
+        "description": "Lavender bee balm of dry mountain meadows throughout West Virginia's hills. Aromatic minty-oregano fragrance. An exceptionally important plant for native bee diversity \u2014 recorded hosting over 20 bee species. More drought-tolerant than red bee balm.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Bloodroot",
+        "latin": "Sanguinaria canadensis",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFFFFF",
+        "habitat": "Rich woodland, stream banks",
+        "wildlife": "Ant-dispersed seeds. Spring ephemeral.",
+        "description": "One of West Virginia's first spring wildflowers \u2014 pure white blooms emerging from the forest floor before the trees leaf out, each wrapped in a single large leaf. The brilliant orange-red sap in the root was used as face paint by Native Americans. Disappears entirely by midsummer. Found in particularly fine stands in the rich cove forests of the Monongahela National Forest.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Dutchman's Breeches",
+        "latin": "Dicentra cucullaria",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Rich cove forest, rocky slopes",
+        "wildlife": "Queen bumblebee specialist. Spring ephemeral.",
+        "description": "Pantaloon-shaped white flowers of West Virginia's rich cove forests and rocky slopes. Among the most charming spring ephemerals of the Appalachians \u2014 appears, blooms, sets seed, and vanishes in just 6\u20138 weeks. West Virginia's mixed mesophytic forests contain some of the finest stands of spring ephemerals in the entire Appalachian region.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Ramps (Wild Leek)",
+        "latin": "Allium tricoccum",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Rich moist woodland \u2014 Appalachian specialty",
+        "wildlife": "Ant-dispersed seeds. Cultural significance to Appalachian communities.",
+        "description": "West Virginia's most culturally significant native plant \u2014 ramps emerge in early spring in dense colonies in rich woodland, with broad garlic-scented leaves that disappear before the flowers emerge. The subject of annual festivals throughout West Virginia and Appalachia. An important traditional food of both indigenous peoples and Appalachian communities. Harvest sustainably \u2014 never take more than 10% of a colony.",
+        "zones": "3\u20137"
+      },
+      {
+        "name": "Yellow Lady's Slipper",
+        "latin": "Cypripedium parviflorum",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FFD700",
+        "habitat": "Rich moist woodland, stream banks",
+        "wildlife": "Bumblebee specialist. Native orchid.",
+        "description": "West Virginia's native orchid \u2014 a beautiful yellow slipper orchid of rich moist woodland and stream banks in the mountains. The inflated yellow pouch traps bees that must push past the stigma and anthers to escape \u2014 ensuring pollination. Takes 10+ years to bloom from seed. Never pick or transplant. Found in particularly fine populations in the Monongahela National Forest.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Great Rhododendron",
+        "latin": "Rhododendron maximum",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FFB6C1",
+        "habitat": "Mountain stream banks, cool ravines",
+        "wildlife": "Dense nesting cover for birds. Nectar for bumblebees.",
+        "description": "West Virginia's state flower \u2014 the Rosebay Rhododendron that forms spectacular dense thickets on mountain slopes and cool ravines, creating the famous 'rhododendron hells' that early settlers found nearly impenetrable. One of the defining plants of Appalachian mountain landscapes. Massive clusters of pale pink flowers. Can live for centuries.",
+        "zones": "3\u20139"
+      }
+    ]
+  },
+  "NC": {
+    "name": "North Carolina",
+    "abbr": "NC",
+    "zones": "5\u20139",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Dogwood",
+        "latin": "Cornus florida",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "North Carolina's state flower \u2014 shared with Virginia, the beloved spring dogwood.",
+        "zones": "5\u20139",
+        "is_state_flower": true
+      },
+      {
+        "name": "Carolina Lily",
+        "latin": "Lilium michauxii",
+        "bloom": "Jul\u2013Aug",
+        "color": "#FF6347",
+        "habitat": "Dry woodland, mountain slopes \u2014 Appalachian specialist",
+        "wildlife": "Hummingbirds and swallowtail butterflies.",
+        "description": "North Carolina's endemic native lily \u2014 orange-red strongly reflexed petals with heavy maroon spotting. Found from the Piedmont to the mountains. Closely related to Turk's Cap Lily but more drought-tolerant. Named for French botanist Andr\u00e9 Michaux who explored North Carolina's mountains extensively.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Venus Flytrap",
+        "latin": "Dionaea muscipula",
+        "bloom": "May\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "NC/SC coastal plain longleaf pine savannas \u2014 very restricted",
+        "wildlife": "Carnivorous \u2014 traps insects. Pollinated by native bees (pollinators not trapped).",
+        "description": "North Carolina's most famous native plant \u2014 the Venus Flytrap is found naturally only within a 75-mile radius of Wilmington, NC. One of the most remarkable plants on Earth. Critically threatened by habitat loss and collection. Fully protected \u2014 collection from the wild is a felony in North Carolina.",
+        "zones": "7\u201310"
+      },
+      {
+        "name": "Mountain Laurel",
+        "latin": "Kalmia latifolia",
+        "bloom": "May\u2013Jun",
+        "color": "#FFB6C1",
+        "habitat": "Mountain slopes, rocky woodland",
+        "wildlife": "Dense cover for Appalachian birds.",
+        "description": "Spectacular native shrub with intricate pink and white flowers blanketing North Carolina's mountain slopes in late spring. One of the defining plants of the Southern Appalachian landscape. Rhododendron and mountain laurel together create the famous 'balds' and heath forests of the Blue Ridge.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Trout Lily",
+        "latin": "Erythronium americanum",
+        "bloom": "Mar\u2013May",
+        "color": "#FFD700",
+        "habitat": "Rich moist woodland, floodplain forest",
+        "wildlife": "Spring ephemeral. Ant-dispersed seeds.",
+        "description": "Mottled brown-and-green leaves (resembling brook trout) emerge in dense colonies in North Carolina's rich woodland. Only a small percentage of plants in a colony bloom in any given year. Forms colonies that may be hundreds of years old. Among the first wildflowers of spring.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Pink Muhly Grass",
+        "latin": "Muhlenbergia capillaris",
+        "bloom": "Sep\u2013Nov",
+        "color": "#FFB6C1",
+        "habitat": "Rocky outcrops, dry pinelands, roadsides",
+        "wildlife": "Seeds eaten by ground-feeding birds. Provides habitat structure.",
+        "description": "Cloud-like masses of pink-purple seedheads cover rocky outcrops and dry roadsides across the NC Piedmont and coastal plain each fall. One of the most dramatic native plants in autumn landscapes. Increasingly used in native plant gardens for its spectacular fall display.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Oconee Bells",
+        "latin": "Shortia galacifolia",
+        "bloom": "Feb\u2013Apr",
+        "color": "#FFFFFF",
+        "habitat": "Mountain ravines, stream banks \u2014 extremely rare",
+        "wildlife": "Early bee plant. One of the rarest native wildflowers in the world.",
+        "description": "One of the rarest native wildflowers in the world \u2014 white bell-shaped flowers with fringed petals in a handful of locations in North Carolina's Blue Ridge mountain ravines. Lost to science for 100 years after Michaux first collected it in 1788 \u2014 rediscovered in 1877. Named for the Oconee River region. North Carolina contains the vast majority of wild populations globally. Fully protected.",
+        "zones": "5\u20138"
+      },
+      {
+        "name": "Atamasco Lily",
+        "latin": "Zephyranthes atamasca",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFFFFF",
+        "habitat": "Moist woodland, roadsides, wet ditches",
+        "wildlife": "Attracts native bees. Spring bulb wildflower.",
+        "description": "Pure white funnel-shaped lily emerging mysteriously in early spring in wet woodland and roadside ditches across the NC Coastal Plain and Piedmont. Known locally as 'Easter lily' and 'rain lily' \u2014 often appearing in great numbers after spring rains. Bulbs are toxic. A stunning native wildflower increasingly appreciated in naturalistic garden settings.",
+        "zones": "7\u201310"
+      },
+      {
+        "name": "Gray's Lily",
+        "latin": "Lilium grayi",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FF4500",
+        "habitat": "High-elevation grassy balds \u2014 Appalachian endemic",
+        "wildlife": "Hummingbird plant. Southern Appalachian endemic.",
+        "description": "One of North Carolina's rarest native plants \u2014 a small red-orange lily found only on the high-elevation grassy balds of the southern Appalachians. Named for botanist Asa Gray. Found in only a handful of locations globally, primarily in western North Carolina. Federally listed as threatened. The high-elevation grassy balds it requires are themselves a rare and poorly understood ecosystem.",
+        "zones": "5\u20137"
+      },
+      {
+        "name": "Galax",
+        "latin": "Galax urceolata",
+        "bloom": "May\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Mountain woodland understory \u2014 Appalachian endemic",
+        "wildlife": "Bees. Important ground cover plant.",
+        "description": "An Appalachian endemic \u2014 round, leathery, evergreen leaves that turn brilliant bronze-red in fall and winter, with small white flower spikes in summer. Galax leaves are among the most harvested native plants in the Appalachians for the floral industry \u2014 sustainably harvested leaves are used in wreaths and arrangements. Forms dense ground-covering colonies in mountain woodland.",
+        "zones": "5\u20138"
+      },
+      {
+        "name": "Catesby's Trillium",
+        "latin": "Trillium catesbaei",
+        "bloom": "Apr\u2013May",
+        "color": "#FFB6C1",
+        "habitat": "Rich mountain woodland \u2014 Appalachian specialist",
+        "wildlife": "Ant-dispersed seeds. Protected in several states.",
+        "description": "A nodding pink trillium of the southern Appalachian mountain woodland \u2014 one of North Carolina's most beautiful native wildflowers. Flowers nod downward on a bent stalk, unique among eastern trilliums. Named for Mark Catesby, the first naturalist to document many Carolina plants. Takes 7+ years to bloom from seed. Never pick \u2014 protected in several Appalachian states.",
+        "zones": "5\u20138"
+      }
+    ]
+  },
+  "SC": {
+    "name": "South Carolina",
+    "abbr": "SC",
+    "zones": "7\u20139",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Yellow Jessamine",
+        "latin": "Gelsemium sempervirens",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "South Carolina's state flower \u2014 fragrant yellow trumpet flowers blooming in late winter.",
+        "zones": "7\u20139",
+        "is_state_flower": true
+      },
+      {
+        "name": "Yellow Jessamine",
+        "latin": "Gelsemium sempervirens",
+        "bloom": "Jan\u2013Mar",
+        "color": "#FFD700",
+        "habitat": "Open woodland, roadsides, fence rows",
+        "wildlife": "Early spring nectar source when little else blooms. Attracts native bees.",
+        "description": "South Carolina's state flower \u2014 fragrant yellow trumpet flowers that bloom as early as January along fence rows, roadsides, and in open woodland. One of the first flowers of the year in the coastal plain. Despite its beauty, all parts are severely toxic \u2014 it has caused deaths when confused with edible wild plants.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Swamp Rose Mallow",
+        "latin": "Hibiscus moscheutos",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FF69B4",
+        "habitat": "Freshwater marshes, pond margins, tidal wetlands",
+        "wildlife": "Attracts specialist native bees. Important wetland plant.",
+        "description": "Enormous native hibiscus with dinner-plate-sized pink to white flowers \u2014 among the largest flowers of any native plant in the eastern US. Found in coastal plain freshwater marshes and pond edges. Attracts specialist native bees that evolved specifically to collect its pollen.",
+        "zones": "4\u201310"
+      },
+      {
+        "name": "Atamasco Lily",
+        "latin": "Zephyranthes atamasca",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFFFFF",
+        "habitat": "Moist woodland, floodplain, wet meadows",
+        "wildlife": "Attracts native bees. Spring bulb wildflower.",
+        "description": "Pure white funnel-shaped lily that emerges mysteriously from wet woodland floors and floodplains in early spring \u2014 sometimes in such abundance it creates white drifts. Also called 'Easter lily of the South.' Bulbs are toxic. A stunning spring wildflower increasingly rare in many areas due to habitat loss.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Pitcher Plant (Parrot)",
+        "latin": "Sarracenia psittacina",
+        "bloom": "Apr\u2013May",
+        "color": "#8B0000",
+        "habitat": "Coastal plain pine savannas, pitcher plant bogs",
+        "wildlife": "Carnivorous \u2014 traps aquatic invertebrates when flooded. Unique carnivore.",
+        "description": "One of South Carolina's most unusual native plants \u2014 a carnivorous pitcher plant unique in that it traps aquatic invertebrates when its horizontal pitchers flood, unlike the vertical pitchers of most species. Found in the increasingly rare longleaf pine savanna ecosystem of the coastal plain.",
+        "zones": "7\u20139"
+      },
+      {
+        "name": "Purple Coneflower",
+        "latin": "Echinacea purpurea",
+        "bloom": "Jun\u2013Aug",
+        "color": "#DDA0DD",
+        "habitat": "Open woodland, meadows, roadsides",
+        "wildlife": "Goldfinches eat seeds through winter. Supports 50+ bee species.",
+        "description": "Large pink-purple daisy-like flowers with a prominent spiny orange-brown center cone. One of the most important native plants for pollinators in South Carolina \u2014 supports 50+ bee species and provides critical winter food for goldfinches that cling to the seed heads. The medicinal properties of echinacea are well-documented.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Wild Ginger",
+        "latin": "Hexastylis arifolia",
+        "bloom": "Mar\u2013May",
+        "color": "#8B4513",
+        "habitat": "Rich acidic woodland \u2014 southeastern specialist",
+        "wildlife": "Ground beetle pollinated. Ant-dispersed seeds.",
+        "description": "South Carolina's native wild ginger \u2014 different from the northern species, this southeastern specialist has beautifully mottled evergreen leaves and small brown jug-shaped flowers hidden at soil level. The aromatic roots have a true ginger scent. Forms attractive evergreen ground cover in shaded acidic woodland \u2014 one of the best native ground covers for the Southeast.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Carolina Jessamine",
+        "latin": "Gelsemium sempervirens",
+        "bloom": "Jan\u2013Mar",
+        "color": "#FFD700",
+        "habitat": "Woodland edges, fence rows, roadsides",
+        "wildlife": "Important early nectar source. Attracts native bees.",
+        "description": "Fragrant yellow trumpet flowers covering woodland edges and fence rows across South Carolina in late winter and early spring. One of the first flowers of the year \u2014 critical early nectar when little else blooms. Despite being the state flower, all parts are severely toxic \u2014 has caused human deaths. The fragrance is sweet and distinctive.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Sundew (Thread-leaved)",
+        "latin": "Drosera filiformis",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FF69B4",
+        "habitat": "Coastal plain savannas \u2014 extremely rare globally",
+        "wildlife": "Carnivorous \u2014 traps insects. Critical bog ecosystem indicator.",
+        "description": "Thread-leaved sundew \u2014 one of South Carolina's most extraordinary native plants. Long, thin, thread-like leaves covered in glistening red sticky glands that trap insects. Found almost exclusively in the increasingly rare longleaf pine savanna ecosystem of the Atlantic coastal plain. Pink flowers on long stems rise above the carnivorous leaves. One of the world's most geographically restricted sundew species.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Walter's Violet",
+        "latin": "Viola walteri",
+        "bloom": "Mar\u2013Apr",
+        "color": "#6A5ACD",
+        "habitat": "Rocky woodland slopes, Carolina sandhills",
+        "wildlife": "Host for all Fritillary butterfly species. Early bee plant.",
+        "description": "A low-growing native violet of rocky woodland slopes and Carolina sandhills \u2014 smaller and earlier blooming than the common blue violet. Like all violets, it is the sole larval host plant for all Fritillary butterfly species. The presence of native violets in a garden directly supports the entire Fritillary butterfly lifecycle.",
+        "zones": "5\u20139"
+      }
+    ]
+  },
+  "GA": {
+    "name": "Georgia",
+    "abbr": "GA",
+    "zones": "6\u20139",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Cherokee Rose",
+        "latin": "Rosa laevigata",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Georgia's state flower \u2014 introduced from China but deeply woven into Georgia's history.",
+        "zones": "6\u20139",
+        "is_state_flower": true
+      },
+      {
+        "name": "Cherokee Rose",
+        "latin": "Rosa laevigata",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFFFFF",
+        "habitat": "Roadsides, woodland edges \u2014 naturalized, not native",
+        "wildlife": "Provides dense thorny cover for birds.",
+        "description": "Georgia's state flower \u2014 though ironically not native to North America. Introduced from China, it naturalized across the South and is deeply associated with Georgia's landscape. Named for the Cherokee people who traded the plant across the Southeast. Single white five-petaled flowers with golden stamens.",
+        "zones": "7\u201310"
+      },
+      {
+        "name": "Coreopsis (Threadleaf)",
+        "latin": "Coreopsis verticillata",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FFD700",
+        "habitat": "Dry rocky slopes, open woodland",
+        "wildlife": "Goldfinches eat seeds. Attracts native bees and butterflies.",
+        "description": "Golden yellow daisy-like flowers on delicate ferny foliage. One of Georgia's most garden-worthy native wildflowers \u2014 extremely drought-tolerant, long-blooming, and attractive to wildlife. The official state wildflower of Florida as well. Very adaptable to dry, poor soil conditions.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Wild Azalea (Florida Flame)",
+        "latin": "Rhododendron austrinum",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FF8C00",
+        "habitat": "Woodland streams, ravine slopes \u2014 Coastal Plain and Piedmont",
+        "wildlife": "Important early-season nectar source for bumblebees and hummingbirds.",
+        "description": "Fragrant orange-yellow azalea flowers that appear before the leaves \u2014 one of the earliest flowering shrubs in Georgia's woodland. Found along streams and ravine slopes in the Coastal Plain and Piedmont. Intensely fragrant \u2014 can be smelled from 50+ feet away on warm spring days.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Blazing Star (Liatris)",
+        "latin": "Liatris spicata",
+        "bloom": "Jul\u2013Sep",
+        "color": "#9400D3",
+        "habitat": "Moist meadows, open woodland, prairies",
+        "wildlife": "Essential Monarch butterfly and native bee plant.",
+        "description": "Tall magenta-purple flower spikes that bloom from the top downward \u2014 unusual among spike flowers. One of the most important native plants for Monarch butterflies migrating through Georgia in fall. Also supports dozens of native bee species. Very easy to grow from corms.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Oakleaf Hydrangea",
+        "latin": "Hydrangea quercifolia",
+        "bloom": "May\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Moist rocky woodland, stream banks",
+        "wildlife": "Provides nesting structure. Attracts native bees.",
+        "description": "Georgia's native hydrangea \u2014 spectacular large white flower clusters on a handsome shrub with distinctive oak-leaf-shaped leaves that turn brilliant burgundy-red in fall. Grows naturally along rocky stream banks in the Piedmont and mountains. Three seasons of interest: spectacular flowers, peeling cinnamon-colored bark, and exceptional fall color. One of the best native shrubs for the Southeast.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Purple Coneflower",
+        "latin": "Echinacea purpurea",
+        "bloom": "Jun\u2013Aug",
+        "color": "#DDA0DD",
+        "habitat": "Open woodland, prairie-like clearings, roadsides",
+        "wildlife": "Goldfinches eat seeds. 50+ bee species. Monarch nectar.",
+        "description": "Native to Georgia's open woodland and prairie clearings, purple coneflower provides critical late-summer nectar for Monarchs moving through Georgia on their fall migration to Mexico. Goldfinches feed on the seed heads through winter, clinging acrobatically to the spiny cones. The roots have well-documented immune-boosting properties.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Indian Pink",
+        "latin": "Spigelia marilandica",
+        "bloom": "May\u2013Jun",
+        "color": "#FF0000",
+        "habitat": "Rich moist woodland, woodland edges",
+        "wildlife": "Hummingbird specialist \u2014 tubular red flowers. Rare woodland plant.",
+        "description": "One of Georgia's most spectacular native wildflowers \u2014 brilliant red tubular flowers with yellow interiors on upright stems in rich woodland. The intense red color and tubular shape signal exclusive hummingbird pollination. Increasingly rare due to deer pressure and forest understory destruction. An outstanding native plant for shaded garden situations.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Needle Palm",
+        "latin": "Rhapidophyllum hystrix",
+        "bloom": "Apr\u2013May",
+        "color": "#FFFFFF",
+        "habitat": "Coastal plain hammocks, swamp edges \u2014 Georgia native",
+        "wildlife": "Berries eaten by wildlife. Provides dense habitat structure.",
+        "description": "The most cold-hardy palm in the world \u2014 native to Georgia's coastal plain hammocks and swamp edges, hardy to zone 6 with protection. Compact clumping growth with needle-like spines protecting the base. Small fruits eaten by wildlife. An extraordinary plant \u2014 a true palm that can survive below-zero temperatures. Increasingly used in cold-hardy tropical garden designs.",
+        "zones": "6\u201311"
+      },
+      {
+        "name": "Swamp Rose Mallow",
+        "latin": "Hibiscus moscheutos",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FF69B4",
+        "habitat": "Freshwater marshes, pond margins, tidal wetlands",
+        "wildlife": "Specialist native bees. Important wetland plant.",
+        "description": "Enormous native hibiscus with dinner-plate-sized pink to white flowers rising from Georgia's freshwater marshes and pond edges. Among the largest flowers of any native plant in the eastern US. Specialist native bees in the genus Ptilothrix evolved specifically to collect pollen from native Hibiscus \u2014 these bees depend entirely on this plant for survival.",
+        "zones": "4\u201310"
+      }
+    ]
+  },
+  "FL": {
+    "name": "Florida",
+    "abbr": "FL",
+    "zones": "8\u201311",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Orange Blossom",
+        "latin": "Citrus sinensis",
+        "bloom": "Varies",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full plant entry for ecological details.",
+        "description": "Florida's state flower \u2014 the intensely fragrant white blossoms of Florida's orange groves.",
+        "zones": "8\u201311",
+        "is_state_flower": true
+      },
+      {
+        "name": "Coreopsis (Tickseed)",
+        "latin": "Coreopsis leavenworthii",
+        "bloom": "Year-round",
+        "color": "#FFD700",
+        "habitat": "Roadsides, ditches, flatwoods, wet prairies",
+        "wildlife": "Seeds eaten by birds. Attracts native bees and butterflies.",
+        "description": "Florida's state wildflower \u2014 golden yellow daisy-like flowers that bloom year-round along roadsides and in wet prairies. Florida has planted millions of tickseed seeds along its highways since the 1990s, creating spectacular golden roadside displays that have become iconic. One of Florida's most recognizable wildflowers.",
+        "zones": "8\u201311"
+      },
+      {
+        "name": "Simpson's Stopper",
+        "latin": "Myrcianthes fragrans",
+        "bloom": "Year-round",
+        "color": "#FFFFFF",
+        "habitat": "Tropical hammocks, coastal woodland \u2014 South Florida",
+        "wildlife": "Berries eaten by many bird species. Important tropical native shrub.",
+        "description": "Fragrant white flowers and orange-red berries on an evergreen native shrub of South Florida's tropical hammocks. Provides year-round food for wildlife. One of the most important native plants for birds in South Florida. Often planted as a landscape shrub.",
+        "zones": "9b\u201311"
+      },
+      {
+        "name": "Swamp Lily",
+        "latin": "Crinum americanum",
+        "bloom": "Jun\u2013Sep",
+        "color": "#FFFFFF",
+        "habitat": "Freshwater swamps, pond edges, ditches",
+        "wildlife": "Attracts sphinx moths (night pollination).",
+        "description": "Spectacular fragrant white flowers on tall stems rising from freshwater swamps and pond edges across Florida. Blooms primarily at night, attracting sphinx moths as pollinators. Large strap-like leaves remain evergreen in frost-free zones. Among Florida's most dramatic native aquatic plants.",
+        "zones": "7\u201311"
+      },
+      {
+        "name": "Spiderwort",
+        "latin": "Tradescantia ohiensis",
+        "bloom": "Jan\u2013Jun",
+        "color": "#9400D3",
+        "habitat": "Roadsides, woodland edges, open pinelands",
+        "wildlife": "Attracts native bees. Pollen collected by specialist bees.",
+        "description": "Deep purple-blue three-petaled flowers with fuzzy yellow stamens \u2014 one of Florida's most common and cheerful native wildflowers. Opens in the morning and closes by early afternoon. The sap turns pink-purple in response to pollution \u2014 used as a biomarker for radiation and other environmental stresses.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Coral Honeysuckle",
+        "latin": "Lonicera sempervirens",
+        "bloom": "Mar\u2013Jul (peak) year-round",
+        "color": "#FF6347",
+        "habitat": "Woodland edges, fence rows, open forest",
+        "wildlife": "Essential Ruby-throated Hummingbird vine. Berries eaten by thrushes.",
+        "description": "Native coral-red tubular honeysuckle \u2014 far superior to the invasive Japanese honeysuckle for wildlife. The tubular red flowers are perfectly designed for Ruby-throated Hummingbird pollination. Not fragrant like the invasive species \u2014 the scent was traded for hummingbird specialization. Evergreen in mild winters.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Wild Canna",
+        "latin": "Canna flaccida",
+        "bloom": "May\u2013Aug",
+        "color": "#FFD700",
+        "habitat": "Freshwater marshes, wet ditches, pond margins",
+        "wildlife": "Attracts hummingbirds. Seeds eaten by waterfowl.",
+        "description": "Florida's native canna lily \u2014 large bright yellow flowers on tall stems rising from freshwater marshes and wet roadside ditches. The ancestor of most cultivated canna hybrids. Provides spectacular tropical-looking color in wet garden spots. Hummingbirds visit the flowers; large seeds are eaten by waterfowl.",
+        "zones": "7\u201311"
+      },
+      {
+        "name": "Firebush",
+        "latin": "Hamelia patens",
+        "bloom": "May\u2013Frost",
+        "color": "#FF4500",
+        "habitat": "Disturbed areas, roadsides, coastal hammocks",
+        "wildlife": "Essential hummingbird plant. Attracts butterflies. Berries for birds.",
+        "description": "One of Florida's most wildlife-valuable native shrubs \u2014 clusters of orange-red tubular flowers attract both Ruby-throated and Rufous Hummingbirds plus butterflies continuously from spring to frost. The small dark berries feed dozens of bird species. Grows rapidly in Florida's heat and humidity. Semi-evergreen to evergreen in frost-free areas.",
+        "zones": "8b\u201311"
+      },
+      {
+        "name": "Muhly Grass",
+        "latin": "Muhlenbergia capillaris",
+        "bloom": "Sep\u2013Nov",
+        "color": "#FFB6C1",
+        "habitat": "Dry sandy flatwoods, rocky outcrops, roadsides",
+        "wildlife": "Seeds eaten by ground-feeding birds. Habitat structure.",
+        "description": "Florida's spectacular fall show plant \u2014 airy pink-purple seedhead clouds covering dry sandy areas and rocky outcrops each fall. One of the most photographed native plants in Florida. Florida's highway department plants millions each year along roadsides for spectacular fall displays. Extremely drought-tolerant once established. Native to the coastal plain from Florida to Texas.",
+        "zones": "6\u201311"
+      },
+      {
+        "name": "Saw Palmetto",
+        "latin": "Serenoa repens",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Sandhills, flatwoods, coastal scrub \u2014 Florida dominant",
+        "wildlife": "Berries eaten by 100+ species. Critical Florida wildlife plant.",
+        "description": "The defining plant of Florida's landscape \u2014 saw palmetto covers vast areas of the state's sandhills, flatwoods, and coastal scrub. Despite being a palm, it typically stays low and spreading rather than developing a trunk. The berries are eaten by over 100 wildlife species including Florida black bears, scrub jays, and gopher tortoises. The berries also support a multi-million dollar supplement industry.",
+        "zones": "8\u201311"
+      },
+      {
+        "name": "Fringed Neottia",
+        "latin": "Pteroglossaspis ecristata",
+        "bloom": "Jul\u2013Sep",
+        "color": "#228B22",
+        "habitat": "Dry longleaf pine savanna \u2014 Florida endemic",
+        "wildlife": "Specialist orchid of fire-maintained habitats.",
+        "description": "A rare native terrestrial orchid of Florida's dry longleaf pine savanna \u2014 greenish-brown flowers are inconspicuous but ecologically fascinating. Depends entirely on periodic fire to maintain the open, sunny, low-competition habitat it requires. As longleaf pine savanna has declined by over 97%, this orchid has disappeared from most of its former range. Found primarily in the Florida panhandle.",
+        "zones": "8\u201310"
+      },
+      {
+        "name": "Chapman's Butterwort",
+        "latin": "Pinguicula planifolia",
+        "bloom": "Feb\u2013Apr",
+        "color": "#DDA0DD",
+        "habitat": "Wet savannas \u2014 extremely rare Florida endemic",
+        "wildlife": "Carnivorous. Critical indicator of pristine wet savanna.",
+        "description": "A rare carnivorous native of Florida's wet pine savannas \u2014 flat rosettes of pale green leaves covered with sticky glands that trap small insects. Purple flowers resembling small violets appear in late winter. Found only in a handful of locations in the Florida panhandle \u2014 one of the most endangered carnivorous plants in North America. An indicator of near-pristine savanna conditions.",
+        "zones": "7\u20139"
+      },
+      {
+        "name": "Gopher Apple",
+        "latin": "Geobalanus oblongifolius",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Dry sandy scrub, longleaf pine flatwoods",
+        "wildlife": "Critical food plant for gopher tortoise. Berries for many wildlife.",
+        "description": "A low, spreading native shrub of Florida's dry sandy scrub and longleaf pine flatwoods \u2014 white flowers followed by white to pale yellow fruits that are a critical food source for the gopher tortoise (a federally threatened species). The relationship between gopher tortoise and gopher apple is a keystone ecological interaction \u2014 the tortoise disperses the seeds in its droppings. Many other scrub animals also rely on the fruit.",
+        "zones": "8\u201311"
+      }
+    ]
+  }
+}
