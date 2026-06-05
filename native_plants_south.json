@@ -1,0 +1,458 @@
+{
+  "TX": {
+    "name": "Texas",
+    "abbr": "TX",
+    "zones": "6\u201310",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Bluebonnet",
+        "latin": "Lupinus texensis",
+        "bloom": "Mar\u2013May",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full entry.",
+        "description": "Texas's beloved state flower \u2014 masses of blue-purple lupine flowers that paint roadsides and meadows across the Hill Country each spring.",
+        "zones": "6\u20139",
+        "is_state_flower": true
+      },
+      {
+        "name": "Texas Bluebonnet",
+        "latin": "Lupinus texensis",
+        "bloom": "Mar\u2013May",
+        "color": "#4169E1",
+        "habitat": "Roadsides, open fields, meadows, rocky limestone soil",
+        "wildlife": "Host for Silvery Blue and other blue butterflies. Important early bee forage. Nitrogen-fixing.",
+        "description": "The most beloved wildflower in Texas \u2014 dense spikes of deep blue-purple flowers that carpet roadsides and meadows across the Hill Country in spring. Lady Bird Johnson championed their planting along highways. Highways pull over is a Texas spring tradition. Nitrogen-fixing annual that improves soil.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Indian Paintbrush (Texas)",
+        "latin": "Castilleja indivisa",
+        "bloom": "Mar\u2013May",
+        "color": "#FF4500",
+        "habitat": "Open meadows, prairies, rocky slopes, roadsides",
+        "wildlife": "Critical hummingbird nectar source. Semi-parasitic on grasses and other plants.",
+        "description": "Brilliant scarlet bracts (not true flowers) that look like a brush dipped in orange-red paint. Grows alongside bluebonnets creating the iconic Texas roadside combination of blue and red. Semi-parasitic on the roots of neighboring grasses \u2014 sow with host grass seed. Naturalizes readily.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Texas Lantana",
+        "latin": "Lantana urticoides",
+        "bloom": "Apr\u2013Nov",
+        "color": "#FF8C00",
+        "habitat": "Rocky slopes, brushy areas, disturbed ground",
+        "wildlife": "Exceptional butterfly nectar plant \u2014 attracts dozens of species. Berries eaten by mockingbirds and other birds.",
+        "description": "Clusters of tiny flowers that start yellow and change to orange and red as they mature \u2014 creating a multicolored effect. Texas native lantana blooms from spring through first frost. Extremely heat and drought tolerant. One of the best butterfly nectar plants for Texas gardens.",
+        "zones": "7\u201311"
+      },
+      {
+        "name": "Winecup",
+        "latin": "Callirhoe involucrata",
+        "bloom": "Mar\u2013Jun",
+        "color": "#8B0000",
+        "habitat": "Dry prairies, rocky slopes, roadsides",
+        "wildlife": "Native bee nectar. Spreads to form weed-suppressing groundcover.",
+        "description": "Magenta-wine-red cup-shaped flowers on spreading low stems with deeply lobed leaves. Blooms prolifically in spring and tolerates extreme summer heat and drought by dying back to a deep taproot. Creates stunning groundcover. One of the most reliable and beautiful Texas native perennials.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Turk's Cap",
+        "latin": "Malvaviscus arboreus",
+        "bloom": "Jun\u2013Nov",
+        "color": "#DC143C",
+        "habitat": "Shaded slopes, stream banks, woodland edges",
+        "wildlife": "Hummingbirds visit the distinctive never-opening flowers. Berries eaten by mockingbirds, cardinals, bobwhite quail.",
+        "description": "Unique twisted red flowers that never fully open \u2014 each looks like a tiny Turkish turban. Blooms summer through fall in shade where few other plants flower. Hummingbirds pump nectar from the tubes. Tolerates deep shade, heat, and drought. Red berries edible \u2014 make jam or eat fresh.",
+        "zones": "7\u201311"
+      },
+      {
+        "name": "Black-Eyed Susan (Texas)",
+        "latin": "Rudbeckia hirta",
+        "bloom": "Jun\u2013Oct",
+        "color": "#FFD700",
+        "habitat": "Open meadows, prairies, roadsides, disturbed ground",
+        "wildlife": "Major native bee and butterfly nectar plant. Seeds eaten by goldfinches, sparrows, and other birds through winter.",
+        "description": "Classic golden-yellow daisy with a dark brown-black cone center. Blooms for months through summer heat. One of the most ecologically important wildflowers \u2014 supports an enormous diversity of pollinators. Self-seeds reliably. Short-lived perennial that perpetuates from seed.",
+        "zones": "3\u20139"
+      }
+    ]
+  },
+  "LA": {
+    "name": "Louisiana",
+    "abbr": "LA",
+    "zones": "8\u201310",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Magnolia",
+        "latin": "Magnolia grandiflora",
+        "bloom": "May\u2013Aug",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full entry.",
+        "description": "Louisiana's magnificent state flower \u2014 the giant white blooms of Southern Magnolia, intensely fragrant and iconic across the Deep South.",
+        "zones": "6\u201310",
+        "is_state_flower": true
+      },
+      {
+        "name": "Southern Magnolia",
+        "latin": "Magnolia grandiflora",
+        "bloom": "May\u2013Aug",
+        "color": "#FFFFFF",
+        "habitat": "Mixed forest, bottomlands, moist rich soil",
+        "wildlife": "Red seeds in fall cones eaten by migratory birds. Provides deep shade and shelter. Ancient association with beetles as pollinators.",
+        "description": "The grandest flowering tree of the South \u2014 enormous waxy white flowers up to 12 inches across with an intoxicating lemon-honey fragrance. Glossy evergreen leaves with rusty-brown undersides. Can reach 80 feet. The defining tree of Southern landscapes. Flowers for months in summer.",
+        "zones": "6\u201310"
+      },
+      {
+        "name": "Louisiana Iris",
+        "latin": "Iris series Hexagonae",
+        "bloom": "Mar\u2013May",
+        "color": "#8A2BE2",
+        "habitat": "Swamps, bayous, stream margins, wet meadows",
+        "wildlife": "Hummingbirds and large bees pollinate. Dense colonies stabilize bayou banks.",
+        "description": "The most spectacular of native irises \u2014 Louisiana iris species and their hybrids produce flowers in an unmatched range of colors: violet, blue, pink, red, white, yellow, and multicolored. Thrives in waterlogged soil and standing water. The state's signature wildflower of bayou country.",
+        "zones": "6\u201310"
+      },
+      {
+        "name": "Spiderwort (Southern)",
+        "latin": "Tradescantia ohiensis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#9370DB",
+        "habitat": "Open woodland, meadow edges, roadsides",
+        "wildlife": "Attracts bumblebees and metallic sweat bees. Hairs on stamens studied for radiation sensitivity \u2014 turn pink when exposed.",
+        "description": "Three-petaled violet-purple flowers with showy yellow stamens covered in fuzzy violet hairs on a clumping plant with long strappy leaves. Opens in morning, closes by afternoon. Blooms profusely in spring. Naturalizes freely. The stamen hairs turn pink in the presence of radiation \u2014 used as a biomonitor.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Blue Wild Indigo",
+        "latin": "Baptisia australis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#4169E1",
+        "habitat": "Open woodland, meadow edges, stream banks",
+        "wildlife": "Host plant for Wild Indigo Duskywing, Wild Blue Indigo, Zarucco Duskywing and Clouded Sulphur butterflies. Bumblebee forage.",
+        "description": "Striking blue-purple pea flowers on an imposing 4-foot plant with blue-green trifoliate leaves. Extremely long-lived \u2014 individual plants survive 50+ years. Nitrogen-fixing root system. Black seed pods rattle in winter providing interest. One of the finest native perennials.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Swamp Rose",
+        "latin": "Rosa palustris",
+        "bloom": "Jun\u2013Aug",
+        "color": "#FF69B4",
+        "habitat": "Swamps, wet meadows, streambanks",
+        "wildlife": "Native bee pollen and nectar. Red hips eaten by many bird species through winter. Nesting shrub.",
+        "description": "Five-petaled pink rose flowers on an arching shrub that thrives in wet to waterlogged conditions \u2014 rare in a rose. Deep pink blooms are followed by bright red-orange hips that persist through winter feeding birds. The only rose that tolerates standing water.",
+        "zones": "3\u20139"
+      }
+    ]
+  },
+  "MS": {
+    "name": "Mississippi",
+    "abbr": "MS",
+    "zones": "7\u20139",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Magnolia",
+        "latin": "Magnolia grandiflora",
+        "bloom": "May\u2013Aug",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full entry.",
+        "description": "Mississippi's state flower \u2014 the iconic Southern Magnolia with its enormous fragrant white blooms.",
+        "zones": "6\u201310",
+        "is_state_flower": true
+      },
+      {
+        "name": "Swamp Azalea",
+        "latin": "Rhododendron viscosum",
+        "bloom": "Jun\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Swamp edges, wet woodland, acidic bogs",
+        "wildlife": "Hummingbird nectar. Long-tongued moths pollinate at night. Dense shrubs provide bird nesting habitat.",
+        "description": "Intensely clove-fragrant pure white flowers that open after the leaves \u2014 the sweetest-scented of all native azaleas. Blooms in early summer when most spring flowers have finished. Thrives in moist to wet acidic soil. Spectacular in June when woodland edges are perfumed.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Pitcher Plant (Yellow)",
+        "latin": "Sarracenia flava",
+        "bloom": "Apr\u2013May",
+        "color": "#FFD700",
+        "habitat": "Coastal plain savannas, acidic bogs, wet pine flatwoods",
+        "wildlife": "Traps and digests insects. Habitats support rare species of bees, wasps, and moths.",
+        "description": "Remarkable carnivorous plant with tall yellow-green pitchers that trap insects. Gorgeous nodding yellow flowers in spring. Once incredibly abundant across Gulf Coast savannas \u2014 now rare due to habitat loss. Mississippi has significant remaining populations. A conservation priority plant.",
+        "zones": "6\u20139"
+      },
+      {
+        "name": "Wild Bergamot",
+        "latin": "Monarda fistulosa",
+        "bloom": "Jun\u2013Sep",
+        "color": "#DDA0DD",
+        "habitat": "Open woodland, meadows, roadsides, dry slopes",
+        "wildlife": "Exceptional pollinator plant \u2014 attracts hummingbirds, native bees, butterflies, and sphinx moths. Host for several moth species.",
+        "description": "Rounded heads of lavender-pink tubular flowers on aromatic stems with oregano-scented leaves. Dried leaves make a pleasant tea. One of the most ecologically valuable native plants \u2014 supports an extraordinary diversity of pollinators. Spreads by rhizomes. Powdery mildew-resistant in open sites.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Coneflower (Purple)",
+        "latin": "Echinacea purpurea",
+        "bloom": "Jun\u2013Sep",
+        "color": "#DDA0DD",
+        "habitat": "Open woodland, prairies, roadsides",
+        "wildlife": "Major native bee and butterfly nectar plant. Goldfinches devour seeds through winter directly from the spiny cones.",
+        "description": "Rosy-purple ray petals surrounding a spiny orange-bronze cone that persists through winter. One of the most widely recognized and ecologically valuable wildflowers. Blooms for months. Attracts extraordinary diversity of pollinators. Goldfinches cling to seed cones for months. One of the most important native medicinal plants.",
+        "zones": "3\u20139"
+      }
+    ]
+  },
+  "AL": {
+    "name": "Alabama",
+    "abbr": "AL",
+    "zones": "7\u20139",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Oak-Leaf Hydrangea",
+        "latin": "Hydrangea quercifolia",
+        "bloom": "May\u2013Jul",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full entry.",
+        "description": "Alabama's distinctive native state flower \u2014 the oakleaf hydrangea with cone-shaped white flower clusters and dramatic autumn foliage.",
+        "zones": "5\u20139",
+        "is_state_flower": true
+      },
+      {
+        "name": "Oak-Leaf Hydrangea",
+        "latin": "Hydrangea quercifolia",
+        "bloom": "May\u2013Jul",
+        "color": "#FFFFFF",
+        "habitat": "Moist shaded slopes, stream banks, rich woodland",
+        "wildlife": "Sterile outer flowers attract pollinators to fertile inner flowers. Dense shrubs provide nesting cover.",
+        "description": "Alabama's signature native shrub \u2014 spectacular cone-shaped clusters of white flowers (aging to pink then parchment) above enormous oak-shaped leaves that turn brilliant crimson and burgundy in fall. Exceptional four-season interest. Tolerates deep shade better than any other Hydrangea. Exfoliating cinnamon bark in winter.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Flame Azalea",
+        "latin": "Rhododendron calendulaceum",
+        "bloom": "May\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Mountain woodland, rocky slopes, Appalachian ridges",
+        "wildlife": "Hummingbird nectar. Bumblebees forage. Dense shrubs support many nesting birds.",
+        "description": "The most spectacular of all native azaleas \u2014 flowers in shades of yellow, orange, red, and salmon with no two plants alike in color. William Bartram called it 'the most gay and brilliant flowering shrub yet known.' Blooms before fully leafed. Scent varies from none to sweet depending on individual plant.",
+        "zones": "5\u20138"
+      },
+      {
+        "name": "Alabama Croton",
+        "latin": "Croton alabamensis",
+        "bloom": "Mar\u2013Apr",
+        "color": "#F5DEB3",
+        "habitat": "Rocky limestone slopes, cedar glades \u2014 Alabama endemic",
+        "wildlife": "Host for Henry's Elfin butterfly. One of the most range-restricted plants in North America.",
+        "description": "A globally rare Alabama endemic \u2014 found only in a few Alabama counties and one Texas location. Small cream-white flowers. An unusual silver-scaled underleaf. Protected as a threatened species. Growing it in cultivation helps preserve genetic diversity.",
+        "zones": "6\u20138"
+      },
+      {
+        "name": "Coral Honeysuckle",
+        "latin": "Lonicera sempervirens",
+        "bloom": "Mar\u2013Jun",
+        "color": "#FF4500",
+        "habitat": "Woodland edges, thickets, stream banks",
+        "wildlife": "Essential hummingbird plant \u2014 adapted specifically for hummingbird pollination. Ruby-throated hummingbirds depend on it during spring migration.",
+        "description": "Clusters of narrow scarlet-orange tubular flowers with yellow throats on a twining woody vine. The native alternative to invasive Japanese honeysuckle. Blooms for months. Essential hummingbird nectar during spring migration. Semi-evergreen. Easy to grow on fences and trellises.",
+        "zones": "4\u20139"
+      }
+    ]
+  },
+  "AR": {
+    "name": "Arkansas",
+    "abbr": "AR",
+    "zones": "6\u20138",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Apple Blossom",
+        "latin": "Malus pumila",
+        "bloom": "Apr\u2013May",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full entry.",
+        "description": "Arkansas's state flower \u2014 the delicate pink-white apple blossom, celebrating the state's significant apple-growing heritage in the Ozarks.",
+        "zones": "4\u20138",
+        "is_state_flower": true
+      },
+      {
+        "name": "Wild Columbine",
+        "latin": "Aquilegia canadensis",
+        "bloom": "Apr\u2013Jul",
+        "color": "#FF4500",
+        "habitat": "Rocky woodland, bluff faces, shaded slopes",
+        "wildlife": "Essential hummingbird plant \u2014 flowers evolved specifically for hummingbird pollination. Long-tongued bumblebees reach nectar from the front.",
+        "description": "Nodding red-and-yellow flowers with backward-pointing red spurs. One of the most beautiful eastern wildflowers. Self-seeds freely in woodland gardens. Hummingbirds probe the nectar spurs. Short-lived perennial that perpetuates by prolific self-seeding in ideal conditions.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Pawpaw",
+        "latin": "Asimina triloba",
+        "bloom": "Mar\u2013May",
+        "color": "#8B4513",
+        "habitat": "Rich moist bottomland forest, stream banks",
+        "wildlife": "Host plant for Zebra Swallowtail butterfly (the ONLY host plant). Pawpaw fruit (largest native fruit) eaten by raccoons, opossums, foxes, and birds.",
+        "description": "Small maroon-purple flowers with a meaty scent pollinated by flies and beetles. Followed by the largest native North American fruit \u2014 creamy yellow flesh with tropical banana-mango-vanilla flavor. Arkansas bottomland forests support natural pawpaw patches. Host exclusively for Zebra Swallowtail butterfly.",
+        "zones": "5\u20139"
+      },
+      {
+        "name": "Cardinal Flower",
+        "latin": "Lobelia cardinalis",
+        "bloom": "Jul\u2013Sep",
+        "color": "#DC143C",
+        "habitat": "Stream banks, wet meadows, moist woodland",
+        "wildlife": "The most important hummingbird nectar plant in the East. Ruby-throated hummingbirds are the primary pollinator.",
+        "description": "Brilliant scarlet flower spikes on 3-4 foot plants in moist habitats. The color red evolved specifically to attract hummingbirds \u2014 bees and other insects cannot see this color well. One of the most spectacular native wildflowers. Spreads by self-seeding near water. Hummingbird magnet.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Wild Blue Phlox",
+        "latin": "Phlox divaricata",
+        "bloom": "Apr\u2013Jun",
+        "color": "#6495ED",
+        "habitat": "Moist woodland, flood plains, shaded garden",
+        "wildlife": "Sphinx moth and swallowtail butterfly nectar. Spreads to form weed-suppressing groundcover.",
+        "description": "Loose clusters of light blue to lavender five-petaled flowers above low semi-evergreen foliage. Sweetly fragrant. One of the finest native woodland groundcovers \u2014 spreads to create a carpet of blue in spring. Tolerates shade. Combines beautifully with spring ephemerals. Not invasive.",
+        "zones": "3\u20138"
+      }
+    ]
+  },
+  "TN": {
+    "name": "Tennessee",
+    "abbr": "TN",
+    "zones": "5\u20138",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Iris (Tennessee Coneflower)",
+        "latin": "Iris spp.",
+        "bloom": "Apr\u2013May",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 see full entry.",
+        "description": "Tennessee's state flower \u2014 iris, representing the diversity of native wildflowers across the state's varied landscapes from the Appalachians to the Mississippi.",
+        "zones": "3\u20139",
+        "is_state_flower": true
+      },
+      {
+        "name": "Tennessee Coneflower",
+        "latin": "Echinacea tennesseensis",
+        "bloom": "Jun\u2013Aug",
+        "color": "#DDA0DD",
+        "habitat": "Cedar glades, limestone outcrops \u2014 Tennessee endemic",
+        "wildlife": "Major native bee forage. Goldfinches eat seeds. Recovered from endangered status through conservation efforts.",
+        "description": "A rare Tennessee endemic \u2014 found naturally only in Davidson, Rutherford, and Wilson counties in cedar glades. Recovered from endangered listing through conservation. Ray petals arch upward (unusual for coneflowers) and are a deeper rose-purple than common purple coneflower. A conservation success story.",
+        "zones": "5\u20138"
+      },
+      {
+        "name": "Bloodroot",
+        "latin": "Sanguinaria canadensis",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FFFFFF",
+        "habitat": "Rich moist woodland, flood plain forest",
+        "wildlife": "One of the first spring bee flowers. Seeds dispersed by ants (myrmecochory).",
+        "description": "Among the first flowers of spring \u2014 pure white flowers with golden centers opening before the single lobed leaf fully unfurls. Each flower lasts only a few days but is extraordinarily beautiful. Named for the bright orange-red sap in the rhizome. The double form (multiplex) is spectacular but doesn't set seed.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Trout Lily",
+        "latin": "Erythronium americanum",
+        "bloom": "Mar\u2013May",
+        "color": "#FFD700",
+        "habitat": "Rich moist woodland, stream banks, flood plains",
+        "wildlife": "Critical early bee forage \u2014 one of the first woodland wildflowers. Seeds dispersed by ants.",
+        "description": "Nodding yellow lily flowers above beautifully mottled leaves spotted like a brook trout. Grows in enormous colonies in rich bottomland forest. Each plant takes 7 years to bloom from seed \u2014 an ancient colony represents centuries of accumulation. Do not disturb established colonies.",
+        "zones": "3\u20138"
+      },
+      {
+        "name": "Large-Flowered Trillium",
+        "latin": "Trillium grandiflorum",
+        "bloom": "Apr\u2013Jun",
+        "color": "#FFFFFF",
+        "habitat": "Rich moist woodland, beech-maple forest",
+        "wildlife": "Bumblebee pollinated. Seeds dispersed by ants. Requires undisturbed forest soil.",
+        "description": "The most spectacular eastern wildflower \u2014 pure white three-petaled flowers above three broad leaves. Each plant takes 7+ years to bloom from seed. Aging flowers turn pink. Never collect from wild \u2014 forest remnants are irreplaceable. The indicator species for old-growth forest quality.",
+        "zones": "4\u20139"
+      },
+      {
+        "name": "Fire Pink",
+        "latin": "Silene virginica",
+        "bloom": "Apr\u2013Jun",
+        "color": "#DC143C",
+        "habitat": "Rocky woodland, shaded slopes, Appalachian ledges",
+        "wildlife": "Hummingbird nectar plant. Also visited by butterflies and long-tongued bees.",
+        "description": "Brilliant crimson-red five-petaled flowers with deeply notched petals on a slightly sticky-stemmed plant. One of Appalachia's most vivid wildflowers. Hummingbirds probe the long tubes. Forms clumps on rocky woodland slopes. Short-lived perennial that self-seeds to maintain colonies.",
+        "zones": "4\u20138"
+      }
+    ]
+  },
+  "KY": {
+    "name": "Kentucky",
+    "abbr": "KY",
+    "zones": "5\u20137",
+    "flowers": [
+      {
+        "name": "\u2605 State Flower: Goldenrod",
+        "latin": "Solidago spp.",
+        "bloom": "Aug\u2013Oct",
+        "color": "#FFD700",
+        "habitat": "State symbol",
+        "wildlife": "State symbol \u2014 one of the most ecologically important wildflowers in North America \u2014 see full entry.",
+        "description": "Kentucky's state flower \u2014 goldenrod, supporting more insects than almost any other native plant genus across Kentucky's diverse landscapes.",
+        "zones": "3\u20139",
+        "is_state_flower": true
+      },
+      {
+        "name": "Goldenrod",
+        "latin": "Solidago nemoralis / S. rugosa",
+        "bloom": "Aug\u2013Oct",
+        "color": "#FFD700",
+        "habitat": "Open fields, woodland edges, roadsides, meadows",
+        "wildlife": "One of the most ecologically important wildflowers in North America \u2014 supports 100+ bee species (including specialist goldenrod bees), 20+ butterfly species, and 100+ moth species as caterpillar hosts. Fall migrating Monarchs depend on it.",
+        "description": "Arching plumes of tiny bright yellow flowers in late summer and fall. Incorrectly blamed for hay fever (the real culprit is ragweed blooming simultaneously). An ecological powerhouse \u2014 no other genus supports more native insect species. Essential for fall migrating Monarchs. Spreads by rhizomes and self-seeds.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Blue Wild Indigo",
+        "latin": "Baptisia australis",
+        "bloom": "Apr\u2013Jun",
+        "color": "#4169E1",
+        "habitat": "Open woodland, meadow edges, rocky bluffs",
+        "wildlife": "Host for Wild Indigo Duskywing and Clouded Sulphur butterflies. Major bumblebee forage. Used medicinally by many indigenous peoples.",
+        "description": "Striking blue-violet pea flowers on an imposing 4-foot plant with blue-green trifoliate leaves. Extremely long-lived \u2014 plants in Kentucky cemeteries are documented over 100 years old. Black inflated seed pods rattle in wind. Nitrogen-fixing. One of the finest native perennials.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Shooting Star",
+        "latin": "Dodecatheon meadia",
+        "bloom": "Apr\u2013Jun",
+        "color": "#DDA0DD",
+        "habitat": "Prairie remnants, open woodland, rocky glades",
+        "wildlife": "Buzz-pollinated by bumblebees. Once common in Kentucky's bluegrass prairies \u2014 now rare.",
+        "description": "Clusters of rose-pink to white flowers with reflexed petals like shooting stars or badminton shuttlecocks in flight. Once incredibly common in Kentucky's pre-settlement bluegrass prairie \u2014 now restricted to scattered remnants. Dies back completely in summer. Spectacular in spring.",
+        "zones": "4\u20138"
+      },
+      {
+        "name": "Wild Bergamot",
+        "latin": "Monarda fistulosa",
+        "bloom": "Jun\u2013Sep",
+        "color": "#DDA0DD",
+        "habitat": "Dry prairies, woodland edges, roadsides",
+        "wildlife": "Exceptional pollinator plant \u2014 attracts hummingbirds, 20+ bee species, and dozens of butterfly and moth species.",
+        "description": "Rounded heads of lavender-pink tubular flowers on aromatic oregano-scented stems. One of the finest native perennials \u2014 blooms for months, spreads gradually, and supports extraordinary pollinator diversity. The leaves make a pleasant wild oregano-flavored tea used by many indigenous peoples. Self-seeds lightly.",
+        "zones": "3\u20139"
+      },
+      {
+        "name": "Eastern Redbud",
+        "latin": "Cercis canadensis",
+        "bloom": "Mar\u2013Apr",
+        "color": "#FF69B4",
+        "habitat": "Woodland understory, forest edges, stream banks",
+        "wildlife": "One of the first spring flowers \u2014 critical early bee forage before most wildflowers bloom. Flowers directly from branches fed by hummingbirds.",
+        "description": "Kentucky's most spectacular native tree in bloom \u2014 bare branches covered entirely in magenta-pink pea flowers before any leaves appear. Flowers in clusters directly from branches and trunk (cauliflory). One of the first major spring nectar sources. Heart-shaped leaves turn golden yellow in fall. Tolerates shade.",
+        "zones": "4\u20139"
+      }
+    ]
+  }
+}
